@@ -33,4 +33,20 @@
 
 
 
+   <item
+           title="El final de nuestros dias"
+           description="Un joven que tiene amnesia se une a un rudo superviviente en un brote zombi para encontrar a su novia."
+           hdposterurl="https://image.tmdb.org/t/p/original/lWw56vQLL33rS3Hq19ECv28dj6a.jpg"
+           streamformat="hls"
+           url="https://sedrfmwrpjxatem5.premilkyway.com/hls2/01/08878/6qz5c58vxx63_,l,n,.urlset/index-f1-v1-a1.m3u8?t=0WSEFEsbAIoLiXhOrbmcInJngXQiC8cV15vq01JAtFY&s=1746381261&e=129600&f=44394727&srv=fbIjIZy3pIBwE0S&i=0.4&sp=500&p1=fbIjIZy3pIBwE0S&p2=fbIjIZy3pIBwE0S&asn=21928">
+
+      <genre>Terror ,Suspenso ,Ciencia ficción</genre>
+      <year>2024</year>
+      <runtime>01:31:00</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+
+
 </Content>
