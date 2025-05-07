@@ -4,7 +4,7 @@
            description="Un adolescente sin hogar lucha por encontrar el valor para enfrentarse a la oscuridad de su pasado."
            hdposterurl="https://th.bing.com/th/id/OIP.veg07zySwmIGHliUQ7tJSwHaKy?rs=1&pid=ImgDetMain"
            streamformat="hls"
-           url="https://swiftplayers.com/stream/G8i8z7Feu1_ONQO6Mv7J5A/kjhhiuahiuhgihdf/1746471233/46865149/index-f2-v1-a1.m3u8">
+           url="https://uk2y0xwy2xup0.premilkyway.com/hls2/01/09831/dh70ju39oqnn_,l,n,.urlset/index-f1-v1-a1.m3u8?t=6pPbF8OEedOgLW0JXAe1_N_7ThBiko_4jWEtId3lsZ8&s=1746323420&e=129600&f=49155792&srv=js4BwLKgfmTMJmVh&i=0.4&sp=500&p1=js4BwLKgfmTMJmVh&p2=js4BwLKgfmTMJmVh&asn=21928">
 
       <genre>Drama, Inspirador</genre>
       <year>2025</year>
@@ -64,7 +64,20 @@
       <subtitle language="spa" description="Spanish" url=""/>
    </item>
 
+  <item
+           title="Drop: Amenaza anónima"
+           description="Violet, una madre viuda en su primera cita en años, llega a un restaurante de lujo y se siente aliviada al descubrir que su cita, Henry, es más encantador y guapo de lo que esperaba. Sin embargo su química comienza a deteriorarse cuando Violet empieza a ser molestada y aterrorizada por una serie de mensajes anónimos que llegan a su teléfono."
+           hdposterurl="https://image.tmdb.org/t/p/original/gc83Ao5AP59gQVjnxAps2oFy2ag.jpg"
+           streamformat="hls"
+           url="https://be7713.rcr82.waw05.cdn255.com/hls2/02/08760/nnetogahy03d_h/master.m3u8?t=UTCd77B8fSSyig_MsmnJXAJh4uLQp8ouSeFC_U2DWNk&s=1746587442&e=10800&f=43802713&srv=26&asn=21928&sp=4000&p=">
 
+      <genre>Misterio, Suspenso</genre>
+      <year>2025</year>
+      <runtime>1h 35m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
 
 
 </Content>
