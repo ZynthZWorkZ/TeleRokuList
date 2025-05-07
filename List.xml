@@ -1,29 +1,129 @@
 <Content>
-   <item
-           title="La Casa del Terror"
-           description="En Halloween, seis amigos deciden entrar en una casa encantada que promete ofrecer una experiencia extrema a base de explotar sus miedos más profundos. La noche se volverá mortal cuando se den cuenta de que algunos monstruos son reales."
-           hdposterurl="https://image.tmdb.org/t/p/original/6fuNWZzY0RijO1Xpw46soazDFMb.jpg"
-           streamformat="hls"
-           url="https://cdn-xx4qamnghxb6avj4.orbitcache.com/engine/hls2-c/01/08477/9zyf3064kfws_,n,.urlset/index-v1-a1.m3u8?t=AUL-bPofLJaM22ASByHAGCK20fIMjt22e4fpl1o5G04&s=1746582468&e=14400&f=42387883&node=aScXF6a8MjgITEZOS9Elnock4JEVAzuZiDAyUvwBwy4=&i=172.59&sp=2500&asn=21928&q=n&rq=g4O3h5bopzvB17bcz6usyWSuLYYveonFu93apLKZ">
+  
 
-      <genre>Terror, Suspenso</genre>
-      <year>2019</year>
-      <runtime>1h 32m</runtime>
+
+   <item
+           title="Drop: Amenaza anónima"
+           description="Violet, una madre viuda en su primera cita en años, llega a un restaurante de lujo y se siente aliviada al descubrir que su cita, Henry, es más encantador y guapo de lo que esperaba. Sin embargo su química comienza a deteriorarse cuando Violet empieza a ser molestada y aterrorizada por una serie de mensajes anónimos que llegan a su teléfono."
+           hdposterurl="https://image.tmdb.org/t/p/original/gc83Ao5AP59gQVjnxAps2oFy2ag.jpg"
+           streamformat="hls"
+           url="https://be7713.rcr82.waw05.cdn255.com/hls2/02/08760/nnetogahy03d_h/master.m3u8?t=UTCd77B8fSSyig_MsmnJXAJh4uLQp8ouSeFC_U2DWNk&s=1746587442&e=10800&f=43802713&srv=26&asn=21928&sp=4000&p=">
+
+      <genre>Misterio, Suspenso</genre>
+      <year>2025</year>
+      <runtime>1h 35m</runtime>
 
       <subtitle language="eng" description="English" url=""/>
       <subtitle language="spa" description="Spanish" url=""/>
    </item>
-
    <item
-           title="Una Casa Sin Salida"
-           description="Durante un viaje de negocios, una mujer alquila una casa en un pueblo fantasma de Arizona. Pero pronto descubre que la casa está maldita y se transforma en un laberinto que impide que sus visitantes escapen."
-           hdposterurl="https://image.tmdb.org/t/p/original/1IfHvoX1m8RGTShgZCB4E4iS0MD.jpg"
+           title="The Cost of Something Priceless"
+           description="Carmen, una madre decidida, lucha por recuperar a su hijo robado de su despiadado novio traficante de armas. Lidiando con el engaño y el peligro, manipula a sus aliados y cautiva a hombres poderosos en esta apasionante historia de amor y acción inquebrantables."
+           hdposterurl="https://image.tmdb.org/t/p/original/d29yBDhALrd6YdLNXl0HV2OyaGm.jpg"
            streamformat="hls"
-           url="https://rhlhanikfp26.cdn-centaurus.com/hls2/01/02531/re687dd4cohv_,n,h,.urlset/master.m3u8?t=ZnDwvowZmHj8UTcXd1jEbV4XQuFh6aMIQC3McQD3xbs&s=1746583097&e=129600&f=12657550&srv=fbIjIZy3pIBwE0S&i=0.4&sp=500&p1=fbIjIZy3pIBwE0S&p2=fbIjIZy3pIBwE0S&asn=21928">
+           url="https://be7713.rcr82.waw05.cdn255.com/hls2/01/08858/tejzuk0kuf6v_h/index-v1-a1.m3u8?t=sYu5CQf5RGnW3bV8Te4_lIPgtorfAoJLbw7SE05fIzA&s=1746587519&e=10800&f=44301910&srv=30&asn=21928&sp=4000&p=">
 
-      <genre>Terror, Suspenso</genre>
+      <genre></genre>
+      <year>1970</year>
+      <runtime></runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="Caminos de Sangre"
+           description="Cliff, un vendedor ambulante que se ahoga bajo el peso de mantener a su familia, termina en un camino peligroso después de reencontrarse con Ricky, un viejo colega."
+           hdposterurl="https://image.tmdb.org/t/p/original/uL1hTzUWgZzphFP1FwfeZiQaGz5.jpg"
+           streamformat="hls"
+           url="https://p3fabiwmf23za.acek-cdn.com/hls2/01/02403/het1fa1oamdy_,l,n,.urlset/index-f1-v1-a1.m3u8?t=r3myW9mBpyl3ll69IWkww6QQBC9c5g_xSEMYVzepXeQ&s=1746587621&e=129600&f=12017366&srv=LFDu7HStkKAt&i=0.4&sp=500&p1=LFDu7HStkKAt&p2=LFDu7HStkKAt&asn=21928">
+
+      <genre>Acción, Crimen, Suspenso</genre>
+      <year>2024</year>
+      <runtime>1h 38m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="Enfrentando la oscuridad"
+           description="Un adolescente sin hogar lucha por encontrar el valor para enfrentarse a la oscuridad de su pasado."
+           hdposterurl="https://image.tmdb.org/t/p/original/hdg8N1ZBdXzX7H7h7Su9tPfvMp3.jpg"
+           streamformat="hls"
+           url="https://p3fabiwmf23za.acek-cdn.com/hls2/01/04629/7dio7l13b9xk_n/index-v1-a1.m3u8?t=ZGIwDBNZ0KMZ2WRkNw93obokE9KB_onOba6F2ZlVRMU&s=1746587722&e=129600&f=23148190&srv=F6vE2P5Wjncn&i=0.4&sp=500&p1=F6vE2P5Wjncn&p2=F6vE2P5Wjncn&asn=21928">
+
+      <genre>Drama</genre>
+      <year>2025</year>
+      <runtime>1h 50m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="The Problem of the Hero"
+           description="In 1940, author Richard Wright turns to Pulitzer Prize-winning playwright Paul Green to help adapt his best-selling book, Native Son, into a Broadway play. Days from opening night, they differ over a single page of the script."
+           hdposterurl="https://image.tmdb.org/t/p/original/r6HCp7i7qgjYu1TSOEQmMuPiExE.jpg"
+           streamformat="hls"
+           url="https://fin-3dg-b1.cdn255.com/hls2/01/08858/6c8oetghfkce_h/index-v1-a1.m3u8?t=l64bD26939n-ZFA_hV-21dtESwe1-J2C1n6yzVJJNpc&s=1746587831&e=10800&f=44300144&srv=08&asn=21928&sp=4000&p=">
+
+      <genre>Drama</genre>
       <year>2023</year>
-      <runtime>1h 41m</runtime>
+      <runtime>1h 25m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="Le vigile"
+           description="Looking for work, Gomez accepts a job as a security guard. It’s not really what you call a vocation! A French short film based on The Security Guard, a short story by Stephen Dixon."
+           hdposterurl="https://image.tmdb.org/t/p/original/d3t95Q17wv2v5qydOynrFa31Iee.jpg"
+           streamformat="hls"
+           url="https://fin-3dg-b1.cdn255.com/hls2/01/08858/nn9tzsl74gvm_h/index-v1-a1.m3u8?t=lpbshGpJFsI4ihrQfLMlurp6EDvEUDH53KKIAps3d_Y&s=1746587946&e=10800&f=44299132&srv=09&asn=21928&sp=4000&p=">
+
+      <genre></genre>
+      <year>1970</year>
+      <runtime>14m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="The Vortex"
+           description="A Paiute woman enters a Las Vegas casino in 1980, triggering strange happenings. The addicted in-house comedian counsels eccentric patrons and must make a pivotal choice."
+           hdposterurl="https://image.tmdb.org/t/p/original/rXEye38NvJym9Hm2FyclQFeJFwl.jpg"
+           streamformat="hls"
+           url="https://be4235.rcr32.ams02.cdn255.com/hls2/01/08858/pxeu803tajk4_h/master.m3u8?t=s3m6DhMtPEsetjYChWZXuww-wL6R19XHWzAxuIdb34g&s=1746588058&e=10800&f=44299070&srv=30&asn=21928&sp=4000&p=">
+
+      <genre>Drama</genre>
+      <year>2025</year>
+      <runtime></runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="Tsunami Sharks"
+           description="A tsunami hits the city and soon, sharks begin infesting the waters."
+           hdposterurl="https://image.tmdb.org/t/p/original/yRJiPPoF8cMz0OnkzzDOhBsqr4F.jpg"
+           streamformat="hls"
+           url="https://be7713.rcr82.waw05.cdn255.com/hls2/01/08858/pum9wxay98yt_h/index-v1-a1.m3u8?t=vbU7uCk4VFCwwMXKMT0pllp2MgwBEufH4_i3Ycor9pY&s=1746588172&e=10800&f=44298184&srv=13&asn=21928&sp=4000&p=">
+
+      <genre>Terror</genre>
+      <year>2024</year>
+      <runtime>1h 10m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="Velocity Kings Ride or Die"
+           description="Un equipo ciclista conocido como "The Velocity Kings" se enfrenta a una tragedia tras la misteriosa muerte de su líder. Deben enfrentar a la sombría figura Dominica y recuperar objetos robados para limpiar su nombre."
+           hdposterurl="https://image.tmdb.org/t/p/original/ekLbG88hURhkpijmEW5e7hEE9gB.jpg"
+           streamformat="hls"
+           url="https://be6721.rcr72.waw04.cdn255.com/hls2/01/08858/07y4r53plx5j_h/master.m3u8?t=TQsOw-bTHnjp6KUY5Y2DExOYrM-QBkzT8ZUwPlAunpY&s=1746588285&e=10800&f=44297672&srv=06&asn=21928&sp=4000&p=">
+
+      <genre></genre>
+      <year>1970</year>
+      <runtime></runtime>
 
       <subtitle language="eng" description="English" url=""/>
       <subtitle language="spa" description="Spanish" url=""/>
