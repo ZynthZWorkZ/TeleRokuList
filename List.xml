@@ -1,10 +1,12 @@
 <Content>
+
+
    <item
            title="Drop: Amenaza anónima"
            description="Violet, una madre viuda en su primera cita en años, llega a un restaurante de lujo y se siente aliviada al descubrir que su cita, Henry, es más encantador y guapo de lo que esperaba. Sin embargo su química comienza a deteriorarse cuando Violet empieza a ser molestada y aterrorizada por una serie de mensajes anónimos que llegan a su teléfono."
            hdposterurl="https://image.tmdb.org/t/p/original/gc83Ao5AP59gQVjnxAps2oFy2ag.jpg"
            streamformat="hls"
-           url="https://be7713.rcr82.waw05.cdn255.com/hls2/02/08760/nnetogahy03d_h/master.m3u8?t=UTCd77B8fSSyig_MsmnJXAJh4uLQp8ouSeFC_U2DWNk&s=1746587442&e=10800&f=43802713&srv=26&asn=21928&sp=4000&p=">
+           url="https://be7713.rcr82.waw05.cdn255.com/hls2/02/08760/nnetogahy03d_h/index-v1-a1.m3u8?t=GZCRf7baEODsKTe_Y8QsxLf4H5U2oBN-6ilD822IXLg&s=1746594414&e=10800&f=43802713&srv=26&asn=21928&sp=4000&p=">
 
       <genre>Misterio, Suspenso</genre>
       <year>2025</year>
@@ -18,21 +20,147 @@
            description="Carmen, una madre decidida, lucha por recuperar a su hijo robado de su despiadado novio traficante de armas. Lidiando con el engaño y el peligro, manipula a sus aliados y cautiva a hombres poderosos en esta apasionante historia de amor y acción inquebrantables."
            hdposterurl="https://image.tmdb.org/t/p/original/d29yBDhALrd6YdLNXl0HV2OyaGm.jpg"
            streamformat="hls"
-           url="https://be7713.rcr82.waw05.cdn255.com/hls2/01/08858/tejzuk0kuf6v_h/index-v1-a1.m3u8?t=sYu5CQf5RGnW3bV8Te4_lIPgtorfAoJLbw7SE05fIzA&s=1746587519&e=10800&f=44301910&srv=30&asn=21928&sp=4000&p=">
+           url="https://be7713.rcr82.waw05.cdn255.com/hls2/01/08858/tejzuk0kuf6v_h/master.m3u8?t=u3DACnoGBchwzwDeR70c6NBqQq8QVRJIS3sb2EdHsyA&s=1746594497&e=10800&f=44301910&srv=30&asn=21928&sp=4000&p=">
 
-      <genre>dark</genre>
+      <genre></genre>
       <year>1970</year>
-      <runtime>1h 30m</runtime>
+      <runtime></runtime>
 
       <subtitle language="eng" description="English" url=""/>
       <subtitle language="spa" description="Spanish" url=""/>
    </item>
-    <item
+   <item
+           title="Caminos de Sangre"
+           description="Cliff, un vendedor ambulante que se ahoga bajo el peso de mantener a su familia, termina en un camino peligroso después de reencontrarse con Ricky, un viejo colega."
+           hdposterurl="https://image.tmdb.org/t/p/original/uL1hTzUWgZzphFP1FwfeZiQaGz5.jpg"
+           streamformat="hls"
+           url="https://sfuyxpozfv.cdn-centaurus.com/hls2/01/05139/71778ib65t7o_,l,n,.urlset/master.m3u8?t=56zK5FG8tJMaK8pJikT9CNwI2aa92rL0XmZai13CU2g&s=1746594579&e=129600&f=25697767&srv=Gy4KXLg7mXRDXE7k&i=0.4&sp=500&p1=Gy4KXLg7mXRDXE7k&p2=Gy4KXLg7mXRDXE7k&asn=21928">
+
+      <genre>Acción, Crimen, Suspenso</genre>
+      <year>2024</year>
+      <runtime>1h 38m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="Enfrentando la oscuridad"
+           description="Un adolescente sin hogar lucha por encontrar el valor para enfrentarse a la oscuridad de su pasado."
+           hdposterurl="https://image.tmdb.org/t/p/original/hdg8N1ZBdXzX7H7h7Su9tPfvMp3.jpg"
+           streamformat="hls"
+           url="https://g9hb6ahmf6ejy.cdn-centaurus.com/hls2/01/09831/dh70ju39oqnn_,l,n,.urlset/index-f2-v1-a1.m3u8?t=imLdVYKSahct9UDZvbLymB91SY_7WpvK6wvGOnIkfV0&s=1746594683&e=129600&f=49155792&srv=6wyav2r9i6j&i=0.4&sp=500&p1=6wyav2r9i6j&p2=6wyav2r9i6j&asn=21928">
+
+      <genre>Drama</genre>
+      <year>2025</year>
+      <runtime>1h 50m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="The Problem of the Hero"
+           description="In 1940, author Richard Wright turns to Pulitzer Prize-winning playwright Paul Green to help adapt his best-selling book, Native Son, into a Broadway play. Days from opening night, they differ over a single page of the script."
+           hdposterurl="https://image.tmdb.org/t/p/original/r6HCp7i7qgjYu1TSOEQmMuPiExE.jpg"
+           streamformat="hls"
+           url="https://fin-3dg-b1.cdn255.com/hls2/01/08858/6c8oetghfkce_h/master.m3u8?t=k6BEXi8oa9j6q8Y5AiAhDWrI09sArQ5mglzgDawFwNo&s=1746594831&e=10800&f=44300144&srv=08&asn=21928&sp=4000&p=">
+
+      <genre>Drama</genre>
+      <year>2023</year>
+      <runtime>1h 25m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="Le vigile"
+           description="Looking for work, Gomez accepts a job as a security guard. It’s not really what you call a vocation! A French short film based on The Security Guard, a short story by Stephen Dixon."
+           hdposterurl="https://image.tmdb.org/t/p/original/d3t95Q17wv2v5qydOynrFa31Iee.jpg"
+           streamformat="hls"
+           url="https://fin-3dg-b1.cdn255.com/hls2/01/08858/nn9tzsl74gvm_h/index-v1-a1.m3u8?t=apIDBi_a9W-gTZv4gLQgynKWqsC39PV8PKC7PKQEFWo&s=1746594942&e=10800&f=44299132&srv=09&asn=21928&sp=4000&p=">
+
+      <genre></genre>
+      <year>1970</year>
+      <runtime>14m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="The Vortex"
+           description="A Paiute woman enters a Las Vegas casino in 1980, triggering strange happenings. The addicted in-house comedian counsels eccentric patrons and must make a pivotal choice."
+           hdposterurl="https://image.tmdb.org/t/p/original/rXEye38NvJym9Hm2FyclQFeJFwl.jpg"
+           streamformat="hls"
+           url="https://be4235.rcr32.ams02.cdn255.com/hls2/01/08858/pxeu803tajk4_h/master.m3u8?t=uzrZJsUE4pQfCy9EBjmHuC7EGpHzq3JCnsBv4dPjC70&s=1746595058&e=10800&f=44299070&srv=30&asn=21928&sp=4000&p=">
+
+      <genre>Drama</genre>
+      <year>2025</year>
+      <runtime></runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="Velocity Kings Ride or Die"
+           description="Un equipo ciclista conocido como The Velocity Kings se enfrenta a una tragedia tras la misteriosa muerte de su líder. Deben enfrentar a la sombría figura Dominica y recuperar objetos robados para limpiar su nombre."
+           hdposterurl="https://image.tmdb.org/t/p/original/ekLbG88hURhkpijmEW5e7hEE9gB.jpg"
+           streamformat="hls"
+           url="https://be6721.rcr72.waw04.cdn255.com/hls2/01/08858/07y4r53plx5j_h/index-v1-a1.m3u8?t=uyMXd_T_Mslo3bFGhLOtVA1P5WhgbmBD61iNIHhVjsg&s=1746595202&e=10800&f=44297672&srv=06&asn=21928&sp=4000&p=">
+
+      <genre></genre>
+      <year>1970</year>
+      <runtime></runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="Upon Her Lips: Girl Power"
+           description="A young woman confronts her religious mother. A biker explores the night with a group of rebel dykes in Rio. A rapper in French Guiana comes to terms with her roots. Five young women reflect on life at a luxury spa in the French mountains."
+           hdposterurl="https://image.tmdb.org/t/p/original/ssGZoAjC1qTwRuQQ5AiNQWIvfIT.jpg"
+           streamformat="hls"
+           url="https://be2719.rcr22.ams01.cdn255.com/hls2/01/08858/mys77y3iw9cp_h/master.m3u8?t=J4CRE5d_3AqFU7zK-1wXdJmbkde-oY6otLVz7RNoBIk&s=1746595313&e=10800&f=44298280&srv=23&asn=21928&sp=4000&p=">
+
+      <genre></genre>
+      <year>2025</year>
+      <runtime>44m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="Airplane 2025"
+           description="A group of repressed college co-eds decides to join the sexual revolution... 30,000 feet in the air."
+           hdposterurl="https://image.tmdb.org/t/p/original/63NJ5GQg7CDTMKGZBXiCdC5kdx9.jpg"
+           streamformat="hls"
+           url="https://be6721.rcr72.waw04.cdn255.com/hls2/01/08867/opg3g0nm8pb5_x/master.m3u8?t=bC0Zktxja3TMd3200RVNaZQYAY5FaQVi1g9n--nSNLg&s=1746595425&e=10800&f=44341645&srv=26&asn=21928&sp=5500&p=">
+
+      <genre>Comedia</genre>
+      <year>2025</year>
+      <runtime>30m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="You're My Person"
+           description="Family man Jabari Gregory meets a sultry temptress named Daisha on his sons' play-date. Despite his love for his perfect wife Symphony and son Miles, Jabari is unable to resist temptation and partakes in a one-night stand with Daisha. After the passionate, adulterous night Daisha is convinced that Jabari is her person. Daisha begins stalking Jabari and his family. Secrets are revealed, worlds are turned upside and EVERYTHING is on the line including their lives!!."
+           hdposterurl="https://image.tmdb.org/t/p/original/bIhzKmEXy2nQ3C8WLKAhR9QQuBW.jpg"
+           streamformat="hls"
+           url="https://be4235.rcr32.ams02.cdn255.com/hls2/01/08867/oj5ud6exiaza_x/master.m3u8?t=RxS4ZbqY66KVg6L77HoBOGtQKGa-ZF9LSGJu7HlQOrc&s=1746595536&e=10800&f=44341734&srv=10&asn=21928&sp=5500&p=">
+
+      <genre></genre>
+      <year>2024</year>
+      <runtime>51m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
            title="ROB1N"
            description="Cuando un experto en robótica canaliza el dolor de perder a su hijo de 11 años en la construcción de 'Robin', un muñeco robótico completamente funcional, una serie de eventos horribles dejan en claro que Robin hará lo que sea necesario para tener a su creador para él solo."
            hdposterurl="https://image.tmdb.org/t/p/original/nJTlyY4dpuIlWf9aDiC4FHrt5Vi.jpg"
            streamformat="hls"
-           url="https://be4235.rcr32.ams02.cdn255.com/hls2/02/08867/3vnct2x155ho_x/master.m3u8?t=qTuvrrh4mGxjnG5sTeGaaRExc8NuwN67BL1d1NawFrc&s=1746588753&e=10800&f=44341712&srv=29&asn=21928&sp=5500&p=">
+           url="https://be4235.rcr32.ams02.cdn255.com/hls2/02/08867/3vnct2x155ho_x/index-v1-a1.m3u8?t=5z6D0XFNdKEYMoH2I7G9aPErDDrD3qsaOfoWnM-zTsE&s=1746595649&e=10800&f=44341712&srv=29&asn=21928&sp=5500&p=">
 
       <genre>Terror, Suspenso</genre>
       <year>2025</year>
@@ -42,18 +170,1809 @@
       <subtitle language="spa" description="Spanish" url=""/>
    </item>
    <item
-           title="Youre My Person"
-           description="Family man Jabari Gregory meets a sultry temptress named Daisha on his sons' play-date. Despite his love for his perfect wife "Symphony" and son "Miles", Jabari is unable to resist temptation and partakes in a one-night stand with Daisha. After the passionate, adulterous night Daisha is convinced that Jabari is her "person". Daisha begins stalking Jabari and his family. Secrets are revealed, worlds are turned upside and EVERYTHING is on the line including their lives!!."
-           hdposterurl="https://image.tmdb.org/t/p/original/bIhzKmEXy2nQ3C8WLKAhR9QQuBW.jpg"
+           title="The Peer Tutor"
+           description="To get extra money, a husband and wife decide to tutor at a high school, where they meet an honor student who turns their worlds upside down."
+           hdposterurl="https://image.tmdb.org/t/p/original/nkjf5cG3AtdUdH1vgXgXALb1Upu.jpg"
            streamformat="hls"
-           url="https://be4235.rcr32.ams02.cdn255.com/hls2/01/08867/oj5ud6exiaza_x/index-v1-a1.m3u8?t=a5KXUXE-HuVYtIUMLxCSQU8b4jwSJ5tcaOZ3GRFQ-0c&s=1746588640&e=10800&f=44341734&srv=10&asn=21928&sp=5500&p=">
+           url="https://fin-3dg-b1.cdn255.com/hls2/01/08858/rfsbi8pfyhiu_h/index-v1-a1.m3u8?t=3_eKSwmhsiIyO2FyGeGV5lvEhCAboeUvfLgMsTFqFZ4&s=1746595762&e=10800&f=44300138&srv=11&asn=21928&sp=4000&p=">
 
-      <genre>dark</genre>
+      <genre>Drama</genre>
       <year>2024</year>
-      <runtime>51m</runtime>
+      <runtime>11m</runtime>
 
       <subtitle language="eng" description="English" url=""/>
       <subtitle language="spa" description="Spanish" url=""/>
    </item>
-   
+   <item
+           title="Tokyo Cowboy"
+           description="Brash businessman Hideki (Arata Iura) convinces his Tokyo bosses he can turn a profitless Montana cattle ranch into a premiere-performing asset. However, when his Japanese Wagyu-beef expert fails him, Hideki is poised to fail unless he identifies a missing element that's key to the transformation: himself."
+           hdposterurl="https://image.tmdb.org/t/p/original/pB2y4UechaKla5dnTIZutpuWLym.jpg"
+           streamformat="hls"
+           url="https://be6721.rcr72.waw04.cdn255.com/hls2/01/08858/fel1ryjs50dp_x/index-v1-a1.m3u8?t=5BYu0RGLDd2HOU5cDxEN6S4d8_ShDs89uo55Ba8ocXQ&s=1746595875&e=10800&f=44298621&srv=16&asn=21928&sp=5500&p=">
+
+      <genre>Drama, Comedia, Romance</genre>
+      <year>2024</year>
+      <runtime>1h 58m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="toxic lust"
+           description="Una tormenta devastadora daña la casa de Rose, quien se ve obligada a ir al pueblo a buscar ayuda de un techador poco confiable. Su pasado empieza a pasarle factura mientras rememora la vida de su esposo a través de una vieja grabadora."
+           hdposterurl="https://image.tmdb.org/t/p/original/9qhVG021L6pSCufidErbS7nJKdl.jpg"
+           streamformat="hls"
+           url="https://be2719.rcr22.ams01.cdn255.com/hls2/02/08858/z2v87sihm1gm_h/index-v1-a1.m3u8?t=HGnhL-oLNW0RFSmyF0XNWW-BbsoRCe1nOKUpCXMD3_U&s=1746595988&e=10800&f=44298529&srv=29&asn=21928&sp=4000&p=">
+
+      <genre></genre>
+      <year>1970</year>
+      <runtime></runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="Welcome"
+           description="When Darren and Sasha learn they are about to become parents, they celebrate with a romantic weekend in the countryside. Their blissful getaway takes a dark turn when a seemingly well-intentioned landlord arrives to address an issue on the property. What begins as a quaint escape soon becomes a harrowing fight for survival."
+           hdposterurl="https://image.tmdb.org/t/p/original/f2uoc58sR6sDG0X0Zpyp7KqOYfT.jpg"
+           streamformat="hls"
+           url="https://be4235.rcr32.ams02.cdn255.com/hls2/01/08858/ck354o5lnwjk_h/index-v1-a1.m3u8?t=PNqaMsSzjUpQWZJXHM5VD_TZaGrtsEhxX0VE4xIh9Hw&s=1746596101&e=10800&f=44297776&srv=03&asn=21928&sp=4000&p=">
+
+      <genre>Drama, Suspenso</genre>
+      <year>2024</year>
+      <runtime>42m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="Wellwood"
+           description="Nick makes an extraterrestrial discovery that he decides will cure his wife of her terminal illness."
+           hdposterurl="https://image.tmdb.org/t/p/original/vRwzVKNHeeQ9srX6u2qsuflBozb.jpg"
+           streamformat="hls"
+           url="https://be4235.rcr32.ams02.cdn255.com/hls2/02/08858/c52p42h6wvto_h/master.m3u8?t=UoS3KYRYjcPMD3-PgMb1tqcbF3xb2WoytA9KquOXiaQ&s=1746596213&e=10800&f=44294111&srv=30&asn=21928&sp=4000&p=">
+
+      <genre>Ciencia ficción, Drama, Suspenso, Terror</genre>
+      <year>2025</year>
+      <runtime>1h 29m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="Wife Stalker"
+           description="Joanna's obsessive fantasy of a perfect life with Leo crumbles, leading to dire consequences. Her delusions of domestic harmony and eternal love are abruptly confronted by harsh reality, forcing her to face the truth of their relationship."
+           hdposterurl="https://image.tmdb.org/t/p/original/lqCsHkEeLbB4zyapUzAa1k9SDm4.jpg"
+           streamformat="hls"
+           url="https://be7713.rcr82.waw05.cdn255.com/hls2/01/08858/o4ft42smc419_h/master.m3u8?t=b16WRXFGNjUj9MzWWaJ83830kw2BD3DImETx6uDvv4Y&s=1746596348&e=10800&f=44294070&srv=04&asn=21928&sp=4000&p=">
+
+      <genre>Suspenso</genre>
+      <year>2025</year>
+      <runtime>1h 27m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="Wilting Rose"
+           description="Una tormenta devastadora daña la casa de Rose, quien se ve obligada a ir al pueblo a buscar ayuda de un techador poco confiable. Su pasado empieza a pasarle factura mientras rememora la vida de su esposo a través de una vieja grabadora."
+           hdposterurl="https://image.tmdb.org/t/p/original/xbuyrTZXuD842oqpJcjdRX9m4l9.jpg"
+           streamformat="hls"
+           url="https://bxs5xkxkyi4y.premilkyway.com/hls2/01/09707/wrkd8tnlog44_,l,n,.urlset/master.m3u8?t=uzQFY8IhhaYRzTiv8WgzFslbnxw9_XrQbkT355C6PdU&s=1746596429&e=129600&f=48545036&srv=galk8e9m4l6if&i=0.4&sp=500&p1=galk8e9m4l6if&p2=galk8e9m4l6if&asn=21928">
+
+      <genre></genre>
+      <year>1970</year>
+      <runtime></runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="Pánico en el tren bala"
+           description="El pánico cunde en un tren bala con destino a Tokio que explotará si baja la velocidad a menos de 100 km/h, y las autoridades deben apresurarse para salvar a todos los pasajeros."
+           hdposterurl="https://image.tmdb.org/t/p/original/qDyJuHpn0Sh19fMv52vRTwGBx4g.jpg"
+           streamformat="hls"
+           url="https://g6m5vwc8rl.premilkyway.com/hls2/01/09686/2o88iomiwdwy_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=JGmvWAOQ2C_krjEE8SXBj9yyHch3M0NPE9zOYlOitBE&s=1746596542&e=129600&f=48430585&srv=6wyav2r9i6j&i=0.4&sp=500&p1=6wyav2r9i6j&p2=6wyav2r9i6j&asn=21928">
+
+      <genre>Acción, Suspenso, Crimen, Drama</genre>
+      <year>2025</year>
+      <runtime>2h 14m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="All We Imagine as Light"
+           description="Primera directora india en competir en Cannes, Payal Kapadia fue aplaudida con el Gran Premio del Jurado. En la superpoblada ciudad de Mumbai, tierra de oportunidades laborales, dos mujeres trabajadoras se enfrentan a su independencia económica y sus deseos de amor contra las barreras propias de la sociedad. Con un lenguaje lleno de romanticismo y humanidad, la crítica ha situado a la directora india en un territorio intermedio entre Lucrecia Martel y Wong Kar-Wai."
+           hdposterurl="https://image.tmdb.org/t/p/original/n6erZpKik89aVFUWoJiTLbcpXzL.jpg"
+           streamformat="hls"
+           url="https://cuyyro04xrqrh.premilkyway.com/hls2/01/09686/qdxaepzzsn3i_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=MxokO4PvhQAinHZ_8kzoKYKWN19aANNm-WRWK-0OcGg&s=1746596639&e=129600&f=48433081&srv=6wyav2r9i6j&i=0.4&sp=500&p1=6wyav2r9i6j&p2=6wyav2r9i6j&asn=21928">
+
+      <genre>Drama</genre>
+      <year>2024</year>
+      <runtime>1h 58m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="Amor explosivo"
+           description="Marvin Gable, un agente inmobiliario que trabaja en los suburbios de Milwaukee, recibe un sobre de Rose una antigua compañera del crimen que él dio por muerta. Ahora, Marvin es traído de regreso al mundo de los sicarios agresivos, lleno de traiciones y casas abiertas que se convierten en zonas de guerras mortales."
+           hdposterurl="https://image.tmdb.org/t/p/original/z0jwBykM5DgPQ99lVlKI4sA0U0L.jpg"
+           streamformat="hls"
+           url="https://1hyahuwewhyvwmq.acek-cdn.com/hls2/01/04022/nhhasb6b4bfa_,l,n,h,.urlset/master.m3u8?t=5U-k_owhxghgIYk-8x18GhbxZ8g_xFhPwkAwcbzEn4U&s=1746596758&e=129600&f=20235562&srv=lrAomU956ig7J&i=0.4&sp=500&p1=lrAomU956ig7J&p2=lrAomU956ig7J&asn=21928">
+
+      <genre>Acción, Comedia, Romance</genre>
+      <year>2025</year>
+      <runtime>1h 23m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="Leones Marinos de las Galápagos"
+           description="En el corazón del Océano Pacífico se encuentra un archipiélago mágico, hogar de una colección singular de criaturas que no se encuentran en ningún otro lugar del planeta. Narrado por Brendan Fraser, Leones Marinos de las Galápagos de Disneynature nos sumerge bajo el agua junto a Leo, un apuesto cachorro de león marino que está aprendiendo a navegar por la vida junto a su madre, Luna. Leo deberá dejar la colonia de su madre para encontrar su propio hogar. Los leones marinos machos deben pelear para ganar los mejores territorios, y solo los más fuertes se convertirán en los machos dominantes. La monumental travesía de Leo está llena de desafíos y nuevos encuentros con una variedad de criaturas, desde iguanas marinas y culebras corredoras, hasta atunes de aleta amarilla y gigantescos tiburones de las Galápagos. Dirigida por Hugh Wilson, codirigida por Keith Scholey y producida por Scholey, Wilson y Roy Conli."
+           hdposterurl="https://image.tmdb.org/t/p/original/r70WqeN6iIYIrwzxfNYFpegKbLN.jpg"
+           streamformat="hls"
+           url="https://jdou5wo6ffta.acek-cdn.com/hls2/01/04531/nhrf1lrbux90_n/master.m3u8?t=Ap3eW0a_lxPtanx_Wf-oGVrJESJwmIYSKgzhxUYXbrg&s=1746596856&e=129600&f=22655975&srv=r0zxJ9MoB6wU&i=0.4&sp=500&p1=r0zxJ9MoB6wU&p2=r0zxJ9MoB6wU&asn=21928">
+
+      <genre>Documental</genre>
+      <year>2025</year>
+      <runtime>1h 23m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="V/H/S/Beyond"
+           description="Seis espeluznantes cintas desatan el horror en un paisaje infernal inspirado en la ciencia ficción, ampliando los límites del miedo y el suspense."
+           hdposterurl="https://image.tmdb.org/t/p/original/wXaf6VGNHIGU7qivapGOF7o4o4N.jpg"
+           streamformat="hls"
+           url="https://i60k6cbfsa8z.premilkyway.com/hls2/01/08226/zzul6luazat8_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=U78WBEdgDbrQy571zpyGml_GvcD0WMXyxFhI5UD7cFc&s=1746597045&e=129600&f=41132544&srv=3FjgDmcnea8S35m&i=0.4&sp=500&p1=3FjgDmcnea8S35m&p2=3FjgDmcnea8S35m&asn=21928">
+
+      <genre>Terror, Ciencia ficción, Suspenso</genre>
+      <year>2024</year>
+      <runtime>1h 54m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="The Kingdom"
+           description="Set in the contemporary era in an alternate version of the Philippines where the islands were never colonized, the Kingdom of Kalayaan sees a ruler’s favored child kidnapped, leading to a failed rescue and a deadly duel."
+           hdposterurl="https://image.tmdb.org/t/p/original/nKw0EFiRC0eFTegtb8DGrL8lvC1.jpg"
+           streamformat="hls"
+           url="https://i60k6cbfsa8z.premilkyway.com/hls2/01/09643/epg6ge5ucgyq_,l,n,h,.urlset/master.m3u8?t=QIhVRNj99fLtrVdQ-VMsIGqxgA1l5lZec8l1XH21ENA&s=1746597570&e=129600&f=48216807&srv=ts09ruf2imyzcv&i=0.4&sp=500&p1=ts09ruf2imyzcv&p2=ts09ruf2imyzcv&asn=21928">
+
+      <genre>Acción, Aventura</genre>
+      <year>2024</year>
+      <runtime>2h 13m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="Slide or Die the Movie"
+           description="The police are cracking down heavy on reckless drifting and driving in Detroit. Underground street take overs and illegal slideshows are growing larger everyday. A highly trained group of vigilante drivers are stealing from dangerous crime lords, local gangs and giving the money back to the community."
+           hdposterurl="https://image.tmdb.org/t/p/original/pM2kpeaMp7cEsp7qEk1b9gcIaXM.jpg"
+           streamformat="hls"
+           url="https://be7713.rcr82.waw05.cdn255.com/hls2/03/08794/760fujxv6iyl_h/master.m3u8?t=L69z9y5lATE16Is9n5CmTpX3GwGKKR6PAT6-_4uIsS4&s=1746597720&e=10800&f=43974551&srv=53&asn=21928&sp=4000&p=">
+
+      <genre></genre>
+      <year>2024</year>
+      <runtime>07m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="Inexplicable"
+           description="Cuando a un niño de 8 años apasionado por el fútbol es diagnosticado con una enfermedad muy grave, su familia necesita fuerza y fe para afrontar las complicaciones de la enfermedad"
+           hdposterurl="https://image.tmdb.org/t/p/original/s0oq2TLoZNQLWpErpvZqQDhWjuB.jpg"
+           streamformat="hls"
+           url="https://cuyyro04xrqrh.premilkyway.com/hls2/01/09643/ggwhm90vh2l0_,l,n,.urlset/index-f2-v1-a1.m3u8?t=Kv9yQ-hOTKB5By8zBNyaeta-Ex7RQ23tmRR4d1lwbKE&s=1746597801&e=129600&f=48216208&srv=jubDiYuWLQCqfHI&i=0.4&sp=500&p1=jubDiYuWLQCqfHI&p2=jubDiYuWLQCqfHI&asn=21928">
+
+      <genre>Drama</genre>
+      <year>2024</year>
+      <runtime>1h 56m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="Blood and Snow"
+           description="El film se centra en dos científicos que descubren el lugar de impacto de un meteorito en el Ártico, pero uno de ellos muere y el otro resulta infectado. Una base cercana acoge a la única superviviente mientras intenta averiguar lo que ha sucedido, pero la única superviviente puede no ser la persona que creen que es."
+           hdposterurl="https://image.tmdb.org/t/p/original/5BJLCYoVxl34Up2JUyNBfI3GZls.jpg"
+           streamformat="hls"
+           url="https://sedrfmwrpjxatem5.premilkyway.com/hls2/01/04170/3xjhhi1q5i3e_,n,h,.urlset/index-f2-v1-a1.m3u8?t=iUFREY6wBFjjIL_xlgTy3BX-0gwj90xNsnuLwrBspJk&s=1746597896&e=129600&f=20854015&srv=z13jtbat10fa85i&i=0.4&sp=500&p1=z13jtbat10fa85i&p2=z13jtbat10fa85i&asn=21928">
+
+      <genre>Ciencia ficción, Terror</genre>
+      <year>2023</year>
+      <runtime>1h 54m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="Rats!"
+           description="Summer just got a lot shorter for 19 year old Raphael Tinski. It's 2007 and the peak of emo-culture is in full swing. Raphael just got arrested by a psychotic cop. Raphael just fell in love with a girl at community service. Raphael might get blown up by nukes."
+           hdposterurl="https://image.tmdb.org/t/p/original/pdegWEY9vDMhL3nOMISIsCHQGAG.jpg"
+           streamformat="hls"
+           url="https://be7713.rcr82.waw05.cdn255.com/hls2/04/08794/7fyf6195v666_h/index-a1.m3u8?t=9P7LVAuuCUiIT_YLxMDlb9Sf0e0ZNg2pQ_NnW_uO-_k&s=1746598027&e=10800&f=43974761&srv=53&asn=21928&sp=4000&p=">
+
+      <genre>Comedia, Crimen</genre>
+      <year>2025</year>
+      <runtime>1h 27m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="Invader"
+           description="A young woman arrives in the Chicago suburbs and begins to suspect that something terrible has happened to her missing cousin, but soon realizes that her greatest fears don’t even begin to scratch the surface."
+           hdposterurl="https://image.tmdb.org/t/p/original/8Cf492kGgLOT9h86ns0fx8CNlnx.jpg"
+           streamformat="hls"
+           url="https://fin-3dg-b1.cdn255.com/hls2/02/08827/l3wpb8ip7pt3_x/index-v1.m3u8?t=Ofi-Nk42Y7I4UfkppTXWNSeIrtyJC5ncJhw0-32j4z8&s=1746598159&e=10800&f=44147311&srv=53&asn=21928&sp=5500&p=">
+
+      <genre>Terror, Suspenso</genre>
+      <year>2024</year>
+      <runtime>1h 10m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="Dear David"
+           description="Poco después de que el dibujante de cómics Adam responda a los trolls de Internet, comienza a experimentar parálisis del sueño. A medida que narra sucesos cada vez más malévolos en una serie de tuits, Adam comienza a creer que está siendo perseguido por el fantasma de un niño muerto llamado David."
+           hdposterurl="https://image.tmdb.org/t/p/original/1gelK40Mac7USMmablUGvMeIUzX.jpg"
+           streamformat="hls"
+           url="https://uk2y0xwy2xup0.premilkyway.com/hls2/01/03759/a6e16uozg13g_,n,h,.urlset/index-f1-v1-a1.m3u8?t=ZozdB5SD8cCFtt5YLCHon7VQYxyBlsQVR_qNEwd_MVc&s=1746598205&e=129600&f=18798334&srv=Gy4KXLg7mXRDXE7k&i=0.4&sp=500&p1=Gy4KXLg7mXRDXE7k&p2=Gy4KXLg7mXRDXE7k&asn=21928">
+
+      <genre>Terror, Suspenso</genre>
+      <year>2023</year>
+      <runtime>1h 34m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="The City God Forgot"
+           description="A women paying for the sins of her father She seeks redemption but first endures a series of tribulations."
+           hdposterurl="https://image.tmdb.org/t/p/original/fXjZqbqIyz4KV4JEtX6VB3P9EgV.jpg"
+           streamformat="hls"
+           url="https://be2719.rcr22.ams01.cdn255.com/hls2/03/08827/srpbhm6ztpd5_x/index-a1.m3u8?t=FuU1yrCcCsia3ks9Y5YW1peZFy-w7b6Ju9qiB8ONE2o&s=1746598376&e=10800&f=44147325&srv=53&asn=21928&sp=5500&p=">
+
+      <genre>Drama</genre>
+      <year>2024</year>
+      <runtime>35m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="The Dead Window"
+           description="El frágil vínculo entre una madre dominante y engañosa y su única hija se ve sometido a una enorme tensión tras la misteriosa desaparición del hombre que la hija ama... pero no se ha ido del todo. Visible solo para Piper, Ott permanece a su lado como un recordatorio constante de lo perdido. A medida que el nudo se aprieta, oscuros secretos salen a la luz, llevando a todos a una colisión de la que quizás solo haya una salida: a través de la ventana muerta."
+           hdposterurl="https://image.tmdb.org/t/p/original/AuLtaQwcfN1XUqLO4tnThVw0rDT.jpg"
+           streamformat="hls"
+           url="https://be6721.rcr72.waw04.cdn255.com/hls2/02/08827/hk6bcoamhgal_x/index-v1.m3u8?t=8BR26bvZrcRd64UC6zqaz650SoJfGdmsiKBdFzsXsQc&s=1746598452&e=10800&f=44146604&srv=53&asn=21928&sp=5500&p=">
+
+      <genre></genre>
+      <year>2025</year>
+      <runtime>30m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="The Lost Daughter"
+           description="A young woman follows a mysterious melody onto a remote tidal island. When she crosses back over at the next low tide, she emerges into a world where 25 years have passed."
+           hdposterurl="https://image.tmdb.org/t/p/original/zGuDCinwsoeiyMVVKges85pR1ps.jpg"
+           streamformat="hls"
+           url="https://be7713.rcr82.waw05.cdn255.com/hls2/01/08827/m8b6jaa3dg6h_x/master.m3u8?t=TLuPwk1xc1qIuQNtkDbfV_h5NzDMi3gkBo1RbT-GjUU&s=1746598565&e=10800&f=44146849&srv=51&asn=21928&sp=5500&p=">
+
+      <genre>Terror, Suspenso, Misterio, Drama</genre>
+      <year>2025</year>
+      <runtime>39m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="¿Es el enemigo? La película de Gila"
+           description="En el Madrid de 1936, un joven llamado Miguel Gila vive tranquilo y feliz con sus abuelos en una humilde buhardilla. Pero el estallido de la Guerra Civil obliga a Miguel, junto a su amigo Pedro, a acudir a la lucha. Allí Gila sobrevive a miserias, batallas, al fusilamiento y a la cárcel gracias a su humor. Por esta forma única de interpretar el mundo que le rodea, Gila se convertirá en uno de los cómicos más populares de España y Latinoamérica."
+           hdposterurl="https://image.tmdb.org/t/p/original/hETrPWqSyw3Kui3yiZIPausbwD8.jpg"
+           streamformat="hls"
+           url="https://13nt2qnqm72d.milocdn.com/hls2/01/04477/2djhyj0xzg9m_n/index-v1-a1.m3u8?t=DD5oh7c_Z288ViuUWFTeY-dArkK6ec6eH1B_HKlGFV8&s=1746598691&e=129600&f=22491043&srv=RoEPK5sMWKIz0&i=0.4&sp=500&p1=RoEPK5sMWKIz0&p2=RoEPK5sMWKIz0&asn=21928">
+
+      <genre>Drama, Comedia, Guerra</genre>
+      <year>2024</year>
+      <runtime>1h 30m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="Taken at a Basketball Game"
+           description="A desperate father's attempt to bond with his teenage daughter at a basketball game turns into a frantic search when she vanishes during halftime, forcing him to navigate a packed arena before it's too late."
+           hdposterurl="https://image.tmdb.org/t/p/original/nbZzS1hyJwITnRBrNY0v3qPrQuB.jpg"
+           streamformat="hls"
+           url="https://fin-3dg-b1.cdn255.com/hls2/02/08794/2ep74kro47iu_h/index-v1-a1.m3u8?t=A7llcYg_ECGgYUiI1OzZ6L8iEETJdDvh_llzfCtXB5g&s=1746598767&e=10800&f=43974292&srv=29&asn=21928&sp=4000&p=">
+
+      <genre>Drama, Suspenso</genre>
+      <year>2025</year>
+      <runtime>1h 28m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="El final de nuestros dias"
+           description="Un joven que tiene amnesia se une a un rudo superviviente en un brote zombi para encontrar a su novia."
+           hdposterurl="https://image.tmdb.org/t/p/original/lWw56vQLL33rS3Hq19ECv28dj6a.jpg"
+           streamformat="hls"
+           url="https://jdou5wo6ffta.acek-cdn.com/hls2/01/03949/2bs6ffkaaj9y_,l,n,.urlset/index-f2-v1-a1.m3u8?t=g1GQ2lxWFTQ117X8tSDZOOExju7GG8Swk5HyXXdJIQ8&s=1746598920&e=129600&f=19901794&srv=yCdcGNsOcuCU&i=0.4&sp=500&p1=yCdcGNsOcuCU&p2=yCdcGNsOcuCU&asn=21928">
+
+      <genre>Terror, Suspenso, Ciencia ficción</genre>
+      <year>2024</year>
+      <runtime>1h 31m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="Greed from the Game"
+           description="When business and pleasure DON'T mix. Follow Chase and his day-one Justin, as they navigate the sports agent world. They soon find out the hard way."
+           hdposterurl=""
+           streamformat="hls"
+           url="https://uk2y0xwy2xup0.premilkyway.com/hls2/01/09545/2k76oc6phhy9_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=22KX9P-R2XnwGs9MwBCpUd4UUWm95KABzfEoFiNrDwA&s=1746599000&e=129600&f=47741744&srv=jtkd5kf4kett&i=0.4&sp=500&p1=jtkd5kf4kett&p2=jtkd5kf4kett&asn=21928">
+
+      <genre></genre>
+      <year>1970</year>
+      <runtime>33m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="Nattevagten - Dæmoner går i arv"
+           description="Emma (Fanny Leander Bornedal), una joven estudiante de medicina, ha aceptado el trabajo de vigilante nocturno en el departamento forense. Su padre, Martin (Nikolaj Coster-Waldau), es un hombre traumatizado que parece esconder un terrible secreto desde que su madre se suicidó cuando Emma tenía tan solo 10 años. Ahora, decidida a encontrar la verdad de lo que sucedió a sus padres, se cruzará con un asesino en serie que parece achecharla por un extraño motivo. Los demonios heredados despertarán sed de venganza."
+           hdposterurl="https://image.tmdb.org/t/p/original/6oRJkenJ1vhng041xm46j7U98pW.jpg"
+           streamformat="hls"
+           url="https://mkz8cqibrwia.acek-cdn.com/hls2/01/04497/oaoq1gf0u7vf_n/master.m3u8?t=rusa7gYu4PxIbND6swiCpy5QFYYC7WE5NAHZIVTDbJA&s=1746599132&e=129600&f=22488635&srv=r0zxJ9MoB6wU&i=0.4&sp=500&p1=r0zxJ9MoB6wU&p2=r0zxJ9MoB6wU&asn=21928">
+
+      <genre>Terror, Suspenso, Misterio</genre>
+      <year>2023</year>
+      <runtime>1h 57m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="Vos & Haas redden het bos"
+           description="En un claro del bosque, el Castor, que es un animalito muy vanidoso, inaugura su gran obra maestra, una presa. Mientras tanto, en el bosque, Zorro y Liebre hacen una fiesta con sus amigos Cresta, Pingüi, Jack, Foca, Sirena y Búho. Después de la fiesta, Búho vuelve hacia su árbol para hacer su turno de vigilancia nocturna como cada noche y se da cuenta de que el árbol está rodeado de hilos de agua. Al día siguiente por la mañana, Zorro y Liebre se dan cuenta de que Búho ha desaparecido. Lo buscan con sus amigos pero, de repente, descubren un lago que no conocían. ¿De dónde ha salido toda esta agua?"
+           hdposterurl="https://image.tmdb.org/t/p/original/keLGW2az1vUgV39sqjn1QoUkhql.jpg"
+           streamformat="hls"
+           url="https://mx9skjnui4es.premilkyway.com/hls2/01/09641/ve3spcphrm3d_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=BFJNMKF1nGNW0FOU6Pv3xOB9tkGcFVCy3vE1oV1-yxw&s=1746599208&e=129600&f=48207990&srv=jubDiYuWLQCqfHI&i=0.4&sp=500&p1=jubDiYuWLQCqfHI&p2=jubDiYuWLQCqfHI&asn=21928">
+
+      <genre>Animación, Aventura, Familia</genre>
+      <year>2024</year>
+      <runtime>1h 12m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="Going Places"
+           description="After covering up a hit and run on the way to their valedictory desert getaway, three high school graduates face the true test of their friendship when they become entangled in a deadly crime ring imbroglio."
+           hdposterurl="https://image.tmdb.org/t/p/original/iUacEaZF2EjVZ9SFgmeTiXimYcy.jpg"
+           streamformat="hls"
+           url="https://be2719.rcr22.ams01.cdn255.com/hls2/07/08767/8aw6ugzb59ko_h/index-a1.m3u8?t=iVsNlWOgR67QOSnwDP-azbMEDcEpdW-gX0F-MFoCtgE&s=1746599337&e=10800&f=43838523&srv=53&asn=21928&sp=4000&p=">
+
+      <genre></genre>
+      <year>2025</year>
+      <runtime></runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="El arte del perdón"
+           description="Un artista negro en la senda del éxito ve cómo su vida se complica por la inesperada visita de su padre, un adicto en recuperación desesperado por reconciliarse con él. Juntos, luchan y aprenden que olvidar puede ser un reto mayor que perdonar."
+           hdposterurl="https://image.tmdb.org/t/p/original/hgVxyVikFcxXaNkbPU3LWqlOQ6b.jpg"
+           streamformat="hls"
+           url="https://p3fabiwmf23za.acek-cdn.com/hls2/01/04497/1ttcwheojve4_n/index-v1-a1.m3u8?t=TlyZZnPwxuuBQXJ9ILOdOomLjwwuxWpJcYz7AB3NJ1A&s=1746599440&e=129600&f=22488316&srv=N9AMlcuPtQ8N&i=0.4&sp=500&p1=N9AMlcuPtQ8N&p2=N9AMlcuPtQ8N&asn=21928">
+
+      <genre>Drama</genre>
+      <year>2024</year>
+      <runtime>1h 57m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="La patasola"
+           description="Un hotel remoto y solitario guarda un oscuro secreto. La Patasola, un ser vengativo marcado por la pérdida de su hijo y su pierna, busca castigar a los infieles. Rodrigo, un investigador, y Susana, su joven amante, llegan al hotel bajo el pretexto de investigar una desaparición no resuelta, pero pronto descubrirán que están encerrados en una trampa mortal. La Patasola, sedienta de venganza desatará toda su furia contra los infieles y hará que paguen el precio de su engaño, transformando su visita en una pesadilla sin escape."
+           hdposterurl="https://image.tmdb.org/t/p/original/8hAi3I6vxlqtLqvcmP0sRktvNwA.jpg"
+           streamformat="hls"
+           url="https://18jij6rntf.premilkyway.com/hls2/01/09641/oagrsw5nm85y_,l,n,.urlset/index-f1-v1-a1.m3u8?t=Wu9IEOOplKL7CVDkqiI7o3mtBg7JgMSdRIWQQFx3DxI&s=1746599518&e=129600&f=48207372&srv=6wyav2r9i6j&i=0.4&sp=500&p1=6wyav2r9i6j&p2=6wyav2r9i6j&asn=21928">
+
+      <genre>Suspenso, Terror</genre>
+      <year>2024</year>
+      <runtime>1h 21m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="Final Days: Tales from the End Times"
+           description="Tells a number of stories that take place on the day in which our world comes to its end."
+           hdposterurl="https://image.tmdb.org/t/p/original/wWouPIp4HkHPX9e7rbEZVy7fGkR.jpg"
+           streamformat="hls"
+           url="https://be2719.rcr22.ams01.cdn255.com/hls2/03/08767/1isvhygj6fhs_h/index-v1-a1.m3u8?t=_NBcZlAdijgwnzq4qyM7RXTeRaKYUGqmmu86lM4JriM&s=1746599660&e=10800&f=43838743&srv=30&asn=21928&sp=4000&p=">
+
+      <genre>Terror</genre>
+      <year>2024</year>
+      <runtime>1h 31m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="Los Khumalo"
+           description="Dos madres, que pasan de ser las mejores amigas a archienemigas, inician una guerra entre sus vecindarios cuando se enteran de que sus hijos se han enamorado"
+           hdposterurl="https://image.tmdb.org/t/p/original/tS4VKxhLaNvTeTxrdNSas4qTCAa.jpg"
+           streamformat="hls"
+           url="https://e9ccawf5esyyffhp.premilkyway.com/hls2/01/09641/pv8qnhztgi57_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=JonkLUtkT4TI1cQnG55Wae8B5zrMOU4CJ4atG9m4yig&s=1746599741&e=129600&f=48206924&srv=3FjgDmcnea8S35m&i=0.4&sp=500&p1=3FjgDmcnea8S35m&p2=3FjgDmcnea8S35m&asn=21928">
+
+      <genre>Comedia, Romance</genre>
+      <year>2025</year>
+      <runtime>1h 32m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="Héroes de Malegaon"
+           description="En la pequeña ciudad de Malegaon, donde las películas son la única distracción de la vida cotidiana, el cineasta amateur Nasir Sheikh reúne a su grupo de amigos para hacer una película para Malegaon. En esta emotiva historia sobre el cine y la amistad, la pasión supera presupuestos ajustados, la ingenuidad conquista los desafíos y los sueños encienden la esperanza y revitalizan la ciudad."
+           hdposterurl="https://image.tmdb.org/t/p/original/tuxmpcPlmsOiBSadI5byoPGEV4.jpg"
+           streamformat="hls"
+           url="https://p3fabiwmf23za.acek-cdn.com/hls2/01/04497/o7qph4kw0w9w_n/index-v1-a1.m3u8?t=fU1ZFaEFr7dR7Jqk4GL0u-QPm7RSv_QgXaQfwneqfQs&s=1746599884&e=129600&f=22487740&srv=LFDu7HStkKAt&i=0.4&sp=500&p1=LFDu7HStkKAt&p2=LFDu7HStkKAt&asn=21928">
+
+      <genre>Comedia, Drama</genre>
+      <year>2025</year>
+      <runtime>2h 07m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="Outta Pocket"
+           description="Demarco strives to find a way out of the street life after being recently released from prison. He reconnects with his first love and begins to see the way until he is faced with an ultimate life-changing decision of life or death."
+           hdposterurl="https://image.tmdb.org/t/p/original/gZ7av25GD0EN1Gk5X47P0pxFutY.jpg"
+           streamformat="hls"
+           url="https://be6721.rcr72.waw04.cdn255.com/hls2/01/08776/pu7x30od058s_h/master.m3u8?t=b_iNmpmhanah5Lj_6jPEghUhMjqu6b6yMf15aDVuufA&s=1746599961&e=10800&f=43882080&srv=52&asn=21928&sp=4000&p=">
+
+      <genre>Crimen, Drama</genre>
+      <year>2023</year>
+      <runtime>20m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="La mujer de las sombras"
+           description="Una mujer misteriosa que aparece repetidamente en el patio delantero de una familia, a menudo entregando advertencias escalofriantes o mensajes inquietantes, dejando a los residentes cuestionando su identidad, sus motivos y el peligro potencial que podría representar."
+           hdposterurl="https://image.tmdb.org/t/p/original/7EqXQpRpDLJA09ufah6Vsr487WW.jpg"
+           streamformat="hls"
+           url="https://18jij6rntf.premilkyway.com/hls2/01/09625/ugmgp9cftdrp_,l,n,.urlset/master.m3u8?t=PDn12QwDjrEE4AnQMm9hmi-agSYpfDsh6ZdNTKX4heI&s=1746600043&e=129600&f=48127051&srv=ts09ruf2imyzcv&i=0.4&sp=500&p1=ts09ruf2imyzcv&p2=ts09ruf2imyzcv&asn=21928">
+
+      <genre>Terror, Misterio</genre>
+      <year>2025</year>
+      <runtime>1h 25m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="O psie, który jeździł koleją"
+           description="Lampo fue un simpático perro callejero que cada día acompañaba a los niños en su trayecto escolar en tren y se convirtió en toda una sensación en Italia en los años 50."
+           hdposterurl="https://image.tmdb.org/t/p/original/gQpGDVYNCSTYf1ogw6hM55VBeLF.jpg"
+           streamformat="hls"
+           url="https://5nrdhdrayadkaqp2.premilkyway.com/hls2/01/09625/438fhe5hfefd_,l,n,.urlset/master.m3u8?t=ycFNVhC2Rvfp2CM0wMoVBsa9piktp_b_A_fH2r7zzrY&s=1746600143&e=129600&f=48126710&srv=6wyav2r9i6j&i=0.4&sp=500&p1=6wyav2r9i6j&p2=6wyav2r9i6j&asn=21928">
+
+      <genre>Familia, Aventura</genre>
+      <year>2023</year>
+      <runtime>1h 35m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="Vera y el placer de los otros"
+           description="Aprovechando que su madre trabaja en el negocio inmobiliario, una adolescente alquila por horas, de forma clandestina, un piso a otros jóvenes para que puedan tener un espacio donde practicar sexo. Lo que parece una manera fácil de ganar dinero se convierte en realidad en la vía a través de la cual la chica empieza a explorar su sexualidad."
+           hdposterurl="https://image.tmdb.org/t/p/original/6i68SQFNy97wDiYpEJyKmlkYqC1.jpg"
+           streamformat="hls"
+           url="https://jdou5wo6ffta.acek-cdn.com/hls2/01/04488/l508zgvxee3l_n/index-v1-a1.m3u8?t=V9azYEyN2bD2r1naoubyLyDHTu_lI5pZK3iFFN2G0jk&s=1746600273&e=129600&f=22444384&srv=rtlcORIeSmi8&i=0.4&sp=500&p1=rtlcORIeSmi8&p2=rtlcORIeSmi8&asn=21928">
+
+      <genre>Comedia, Drama</genre>
+      <year>2024</year>
+      <runtime>1h 44m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="El Maravilloso Mago de Oz: Parte 1"
+           description="Ellie vive en una ciudad lejana. Un día, la malvada bruja Gingema conjuró un huracán que llevó a Ellie y a su perro Totoshka al país de los Munchkins. Para regresar a casa, Ellie y sus amigos el Espantapájaros, el Leñador de Hojalata y el León Cobarde emprenderán el camino de baldosas amarillas hacia la Ciudad Esmeralda en busca del Mago que les concederá sus preciados deseos."
+           hdposterurl="https://image.tmdb.org/t/p/original/ruMUv9mtcUoiUWoZmLBBTDbn11J.jpg"
+           streamformat="hls"
+           url="https://be7713.rcr82.waw05.cdn255.com/hls2/01/08245/q6jv3lgdydbj_x/master.m3u8?t=dwf3BTuQMSd9XvKKuIqV-Hz1_rmAI682nsGvTjUm3xs&s=1746600512&e=10800&f=41226190&srv=38&asn=21928&sp=5500&p=">
+
+      <genre>Drama, Fantasía</genre>
+      <year>2025</year>
+      <runtime>1h 44m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="G20"
+           description="Cuando atacan la cumbre del G20, la presidenta de los Estados Unidos, Danielle Sutton, se convierte en el principal objetivo. Luego de evitar que la capturen, deberá ser más inteligente que el enemigo para proteger a su familia, defender a su país y resguardar a los líderes mundiales."
+           hdposterurl="https://image.tmdb.org/t/p/original/xihssRPgRDZ7xwIjx3xuPTnqPfU.jpg"
+           streamformat="hls"
+           url="https://5nrdhdrayadkaqp2.premilkyway.com/hls2/01/09623/9zf1o6s8illh_,l,n,.urlset/index-f1-v1-a1.m3u8?t=mh4zotLTXZeJ_SnAv4IEdK726dm1c3AgQNp1PO40660&s=1746600593&e=129600&f=48115608&srv=6wyav2r9i6j&i=0.4&sp=500&p1=6wyav2r9i6j&p2=6wyav2r9i6j&asn=21928">
+
+      <genre>Acción, Misterio, Drama</genre>
+      <year>2025</year>
+      <runtime>1h 50m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="Mouseboat Massacre"
+           description="The story follows a young woman battling a drug addiction who suddenly begins to see a mutated mouse human hybrid who infests her life. Those around her begin to drop like flies."
+           hdposterurl="https://image.tmdb.org/t/p/original/ytXMH6LY6NE51asz40Iq34RVS74.jpg"
+           streamformat="hls"
+           url="https://be2719.rcr22.ams01.cdn255.com/hls2/01/08776/y2amtwd8dawx_x/master.m3u8?t=UX9FiTUipwcFo3Yt48eod2V3Y8sAportTm0gZ5hRKv4&s=1746600725&e=10800&f=43882357&srv=46&asn=21928&sp=5500&p=">
+
+      <genre>Terror</genre>
+      <year>2025</year>
+      <runtime>1h 22m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="Chicos de hielo en el trópico"
+           description="Para reunirse con su padre, la profesora de un centro de internamiento anima a un grupo de jóvenes inadaptados a participar en un concurso de esculturas de nieve en Japón"
+           hdposterurl="https://image.tmdb.org/t/p/original/2IL9BVp0wXPFADYGW7wtCxsIw8L.jpg"
+           streamformat="hls"
+           url="https://wnsa7jyhmnmt12.premilkyway.com/hls2/01/09623/udund22hg53u_,l,n,.urlset/index-f2-v1-a1.m3u8?t=qlK28hJ1AeClfTGtxWwR797kxZoEnitVvZiPtk4cKNA&s=1746600804&e=129600&f=48115053&srv=6wyav2r9i6j&i=0.4&sp=500&p1=6wyav2r9i6j&p2=6wyav2r9i6j&asn=21928">
+
+      <genre>Drama, Comedia</genre>
+      <year>2025</year>
+      <runtime>1h 58m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="Meet Cute in Manhattan"
+           description="When an actor finds love with his co-star in a dating app commercial that unexpectedly goes viral, he finds himself at the center of the rom-com story he's always dreamed of."
+           hdposterurl="https://image.tmdb.org/t/p/original/r6JB3RN0hKOUdsOxVhFgMCrEQ1j.jpg"
+           streamformat="hls"
+           url="https://rfognbc0mhhj.premilkyway.com/hls2/01/09556/khugzfs4zc0t_,l,n,h,.urlset/master.m3u8?t=VmGsw7fqjZFv7hH-01qHh1cdJILDnjzaO9nU0hZibtA&s=1746600947&e=129600&f=47785103&srv=jtkd5kf4kett&i=0.4&sp=500&p1=jtkd5kf4kett&p2=jtkd5kf4kett&asn=21928">
+
+      <genre>Romance, Comedia</genre>
+      <year>2025</year>
+      <runtime>33m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="Lo mejor del mundo"
+           description="Cuando un dúo de padre e hijo descubren que quizás no estén relacionados biológicamente, juntos se embarcan en una gran aventura por México para saber la verdad."
+           hdposterurl="https://image.tmdb.org/t/p/original/eHbwA5eSmmZQH4wGdWwnU9exDA1.jpg"
+           streamformat="hls"
+           url="https://7f12638xuzfg.premilkyway.com/hls2/01/09622/mv8h4qefk71w_,l,n,h,.urlset/master.m3u8?t=KgKgx0dgc7Y7zfI9dQpintAV2rdDwyOa_VtoQsvS1-I&s=1746601057&e=129600&f=48111784&srv=jubDiYuWLQCqfHI&i=0.4&sp=500&p1=jubDiYuWLQCqfHI&p2=jubDiYuWLQCqfHI&asn=21928">
+
+      <genre>Comedia, Drama</genre>
+      <year>2025</year>
+      <runtime>1h 23m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="Perfidious"
+           description="Perfidious is a compelling urban drama that explores the lives of a group of friends and their involvement in the drug trade. The story follows Fitz, a charismatic and ambitious young man trying to balance his life."
+           hdposterurl="https://image.tmdb.org/t/p/original/tcPl8RKTepelGzQ0JXVJ4fMpeq5.jpg"
+           streamformat="hls"
+           url="https://be4235.rcr32.ams02.cdn255.com/hls2/01/08776/3rhi06vnczys_x/index-v1-a1.m3u8?t=dfi-2LVZ1s6kB2wTG5mdzLfG3siqKJls1FV15x4Wa1U&s=1746601255&e=10800&f=43883079&srv=28&asn=21928&sp=5500&p=">
+
+      <genre>Drama</genre>
+      <year>2025</year>
+      <runtime>22m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="Purgatory Jack"
+           description="Purgatory Jack es un thriller de misterio neo-noir ambientado en el más allá, un paisaje peligroso dirigido por una pandilla sedienta de sangre que recolecta extremidades y está poblado de forajidos y marginados. El caso más reciente del músico convertido en detective privado, Jack Marlin, está ayudando a la recién llegada Viv Vacious, una estrella del pop punk que sufrió una sobredosis, a mantenerse a salvo mientras corre contra el tiempo para encontrar a su madre, que se suicidó veinte años antes. Mientras navegan por el traicionero terreno de la sala de espera de los infiernos, estos dos músicos de épocas enfrentadas desbloquean una conspiración asesina y descubren por qué la sangre es más que una droga en el Purgatorio."
+           hdposterurl="https://image.tmdb.org/t/p/original/9GFweL8QYYywS5U4emSiqyIJqQI.jpg"
+           streamformat="hls"
+           url="https://jturq6cd3wcv.premilkyway.com/hls2/01/09622/8jz712t5tgts_,l,n,.urlset/master.m3u8?t=PeVm6CyALO7s_VoW90JXPXnB04CuOt4Dxa8aaI9G9Ss&s=1746601336&e=129600&f=48110374&srv=jubDiYuWLQCqfHI&i=0.4&sp=500&p1=jubDiYuWLQCqfHI&p2=jubDiYuWLQCqfHI&asn=21928">
+
+      <genre>Suspenso, Drama, Fantasía, Misterio</genre>
+      <year>2025</year>
+      <runtime>1h 41m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="Reel Hard"
+           description="When a mystical horn with hypnotic powers is stolen, cinema sleuth Cade Huntley must resist the seductive control of predatory studio head, Lucille Lincoln, before she uses it to take over Hollywood."
+           hdposterurl="https://image.tmdb.org/t/p/original/l3AKj6mRdU3rc3GfhRGwCyj76M7.jpg"
+           streamformat="hls"
+           url="https://wnsa7jyhmnmt12.premilkyway.com/hls2/01/09556/a2ga5vkjjqrk_,l,n,h,.urlset/master.m3u8?t=40UJLyqpNdGMwxDHkSD5Fnm2psn0xjdYjNUbnlM5mSM&s=1746601433&e=129600&f=47785080&srv=KsLkgBWej56z&i=0.4&sp=500&p1=KsLkgBWej56z&p2=KsLkgBWej56z&asn=21928">
+
+      <genre></genre>
+      <year>2024</year>
+      <runtime>21m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="Bookworm"
+           description="La vida de Mildred, una niña espabilada y curiosa, da un giro inesperado cuando su padre, un mago venido a menos, reaparece y la arrastra a una extraña aventura. Juntos se embarcan en un campamento con una misión insólita: encontrar a la legendaria pantera de Canterbury. Una historia de magia, reencuentros y criaturas imposibles."
+           hdposterurl="https://image.tmdb.org/t/p/original/260GDjmYf2A9W09RRo5FwUueQ3Y.jpg"
+           streamformat="hls"
+           url="https://uk2y0xwy2xup0.premilkyway.com/hls2/01/09621/8872jzuvj41i_,l,n,.urlset/master.m3u8?t=F2Z178wSUAN-J1S3ZDIk0Fhzxt3L8LyYv5rBm_Tva5A&s=1746601547&e=129600&f=48109695&srv=3FjgDmcnea8S35m&i=0.4&sp=500&p1=3FjgDmcnea8S35m&p2=3FjgDmcnea8S35m&asn=21928">
+
+      <genre>Aventura, Familia, Comedia, Drama</genre>
+      <year>2024</year>
+      <runtime>1h 43m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="Cónclave"
+           description="Sigue la historia del cardenal Lawrence, un hombre que tiene la tarea de dirigir un proceso encubierto para la elección de un nuevo Papa."
+           hdposterurl="https://image.tmdb.org/t/p/original/m5x8D0bZ3eKqIVWZ5y7TnZ2oTVg.jpg"
+           streamformat="hls"
+           url="https://jturq6cd3wcv.premilkyway.com/hls2/01/06225/3rtduipmjnzo_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=2Ke2XtdKWbUTg-Gr0mpgcetJe_ITkY3p4KDUhw0JtD0&s=1746601645&e=129600&f=31129431&srv=3FjgDmcnea8S35m&i=0.4&sp=500&p1=3FjgDmcnea8S35m&p2=3FjgDmcnea8S35m&asn=21928">
+
+      <genre>Drama, Suspenso, Misterio</genre>
+      <year>2024</year>
+      <runtime>2h 00m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="Attack on Titan: EL ATAQUE FINAL"
+           description="Película recopilatoria para cines de los dos últimos episodios especiales de la última temporada de Ataque a los Titanes. La humanidad vivía en paz tras los enormes muros construidos para protegerse de la amenaza de unas criaturas monstruosas llamadas Titanes. Su siglo de paz se vio truncado por un ataque a su ciudad que dejó huérfano de madre a un niño, Eren Yeager, que juró vengarse de los titanes. Años después de unirse a la Tropa de Reconocimiento, Eren se enfrenta a un enemigo mortal y acaba adquiriendo una habilidad especial que revela una nueva verdad sobre el mundo que conoce... Tras aventurarse más allá de los muros y separarse de sus camaradas, Eren, motivado por sus nuevos conocimientos del mundo, planea el Retumbar, un terrorífico plan para erradicar a todo ser vivo del mundo. Con el destino del mundo pendiendo de un hilo, un variopinto grupo de antiguos camaradas y enemigos de Eren lucha por detener su letal misión. La única pregunta es: ¿lo conseguirán?"
+           hdposterurl="https://image.tmdb.org/t/p/original/2vKweKp6Nynd4kBiKhOGyP0iSdO.jpg"
+           streamformat="hls"
+           url="https://be4235.rcr32.ams02.cdn255.com/hls2/01/08330/95o9cbcp3mx6_x/master.m3u8?t=UvujSwUIjTdbtyghGYGhHaZQTKkLutbrwfpMf2uuxuE&s=1746601841&e=10800&f=41656131&srv=39&asn=21928&sp=5500&p=">
+
+      <genre>Animación, Acción, Aventura, Fantasía</genre>
+      <year>2024</year>
+      <runtime>2h 25m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="Shadows of Redemption"
+           description="Ares, a ruthless criminal, seeks to reclaim his family's underworld empire. Betrayal and deception haunt his path as he battles former allies and lovers. Determined to avenge his father's murder and reunite his family, Ares faces his toughest challenge yet: uncovering the truth behind the chaos."
+           hdposterurl="https://image.tmdb.org/t/p/original/qXCjEmxX5Wyc1Uk2Sw7jgqLKuki.jpg"
+           streamformat="hls"
+           url="https://be2719.rcr22.ams01.cdn255.com/hls2/05/08794/rx2oeydjvcts_h/master.m3u8?t=xj0zIa9A9pQPAp67D23oVaK5LD5DZiL7n5Vd4pnwpNk&s=1746602496&e=10800&f=43974726&srv=53&asn=21928&sp=4000&p=">
+
+      <genre>Crimen, Drama</genre>
+      <year>2025</year>
+      <runtime>22m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="Simon Says"
+           description="A terrifying origin story of the children's playground game Simon Says."
+           hdposterurl="https://image.tmdb.org/t/p/original/4dt7nbZWjoLxKZFQVWbLTs1GvcM.jpg"
+           streamformat="hls"
+           url="https://fin-3dg-b1.cdn255.com/hls2/02/08794/zy5vro66vplt_h/master.m3u8?t=FSRLnUUO7A9-iMnRdE8W7iHvTWUZaqjf3j-L1d6NPRs&s=1746602609&e=10800&f=43974520&srv=31&asn=21928&sp=4000&p=">
+
+      <genre>Terror</genre>
+      <year>2025</year>
+      <runtime>28m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="Negligence"
+           description="Javerise made the decision to keep a secret from his wife, choosing not to tell her that he was suffering from a terminal illness. With both of them hiding their own secrets, their relationship was doomed. Determined not to let a cheating spouse inherit his money, Javerise set his plans in motion."
+           hdposterurl="https://image.tmdb.org/t/p/original/vQGxYt3SOAD9wWv4hqR1ujcqVlf.jpg"
+           streamformat="hls"
+           url="https://fin-3dg-b1.cdn255.com/hls2/05/08776/20bn1f0pr1ke_h/index-v1.m3u8?t=CmZkw6ba5rgfG2cxKPmN4T6nkNV5QMOROyWj51XVyCs&s=1746602935&e=10800&f=43882366&srv=53&asn=21928&sp=4000&p=">
+
+      <genre>Drama, Suspenso</genre>
+      <year>2024</year>
+      <runtime>06m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="Lost Joy"
+           description="Jane's getaway with her partner to the woods goes south when a stranger arrives and questions the integrity of their relationship."
+           hdposterurl="https://image.tmdb.org/t/p/original/1fwJagktIlGwYQEfNjJmUt1uQex.jpg"
+           streamformat="hls"
+           url="https://be7713.rcr82.waw05.cdn255.com/hls2/07/08767/tlw5z4664vs8_h/index-a1.m3u8?t=yrR5Bd81N93JduMmhcRXCvmrIJZnBnEcI0Sqs97llJE&s=1746603164&e=10800&f=43838782&srv=53&asn=21928&sp=4000&p=">
+
+      <genre>Suspenso, Drama</genre>
+      <year>2025</year>
+      <runtime>05m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="Hustle City"
+           description="There friends take on the Cartel but one of them is playing a deadly love game with an old fling he must survive war to get her back."
+           hdposterurl=""
+           streamformat="hls"
+           url="https://uk2y0xwy2xup0.premilkyway.com/hls2/01/09545/zutpemjp5fk9_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=AgUwJjpmYRbg4TIFS2cqblPD77ItTi83ydBzVHyjEG4&s=1746603244&e=129600&f=47728854&srv=g3qezmygwi76p&i=0.4&sp=500&p1=g3qezmygwi76p&p2=g3qezmygwi76p&asn=21928">
+
+      <genre></genre>
+      <year>1970</year>
+      <runtime>47m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="Mom"
+           description="Meredith, su marido Jared y su hijo Alex se enfrentan a toda clase circunstancias aterradoras justo al comienzo de una tragedia familiar."
+           hdposterurl="https://image.tmdb.org/t/p/original/2830dGe0I5KNBf2VT9h4iKHZQIS.jpg"
+           streamformat="hls"
+           url="https://fin-3dg-b1.cdn255.com/hls2/01/08753/nzvhixfnud6w_x/master.m3u8?t=hQoOOAikpBPo1P_XB-aXjpvME97KcouEzwddO0OJj_8&s=1746603409&e=10800&f=43786992&srv=44&asn=21928&sp=5500&p=">
+
+      <genre>Terror, Suspenso</genre>
+      <year>2025</year>
+      <runtime>35m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="Guns of Redemption"
+           description="A stranger only known as Luke leaves his violent past behind, but when old enemies shoot him down, he straps on his guns one last time to save two sisters held by his enemies before he bleeds to death or dies from the bullet lodged in his spine."
+           hdposterurl="https://image.tmdb.org/t/p/original/hiBB8T80twIDVQcXNt0JaaNJQIk.jpg"
+           streamformat="hls"
+           url="https://fin-3dg-b1.cdn255.com/hls2/01/08754/z5t1gt39ps56_x/master.m3u8?t=ITBRYmZbN9Y5iF4oxnTgADl7FkBM9E75aNVwLKNCVMY&s=1746603508&e=10800&f=43786248&srv=42&asn=21928&sp=5500&p=">
+
+      <genre>Western</genre>
+      <year>2025</year>
+      <runtime>38m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="Fragile Bond"
+           description="Derek y Tasha Greene son un matrimonio que se distancia, y su antigua conexión apasionada se desvanece bajo el peso de la rutina y las tensiones tácitas. Desesperados por reavivar la llama, se inspiran en una pareja aventurera que vive en línea y deciden explorar nuevos límites en su relación. Pero al adentrarse en un territorio desconocido, se enfrentan a desafíos emocionales inesperados que los obligan a cuestionar no solo su amor, sino los cimientos mismos de su matrimonio. Sessions es una exploración apasionante de la intimidad, el deseo y las complejidades de las relaciones modernas, donde la búsqueda de la conexión puede llevar a revelaciones inesperadas."
+           hdposterurl="https://image.tmdb.org/t/p/original/rzMqCazt1JSYr5N4EXLicjo6mO6.jpg"
+           streamformat="hls"
+           url="https://be7713.rcr82.waw05.cdn255.com/hls2/01/08754/f13errgftlgw_x/index-v1-a1.m3u8?t=HwQGMe3-BH9ph3V1XZbdNfHQVpC1DpTNjPos-jBifGw&s=1746603606&e=10800&f=43786257&srv=33&asn=21928&sp=5500&p=">
+
+      <genre></genre>
+      <year>2025</year>
+      <runtime>30m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="Director's Cut"
+           description="A sleazy Indie movie director inadvertently hires a seductively, evil Genie, to play the role of a demon in his no budget horror flick. The casting is perfect, but will he regret getting his way this time ?"
+           hdposterurl=""
+           streamformat="hls"
+           url="https://wnsa7jyhmnmt12.premilkyway.com/hls2/01/09529/12jjj9ewhot0_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=Y0eM1RmqCU_hAiOjitHfz4WHZxdXzRv-2tPdBg8vayA&s=1746603654&e=129600&f=47663753&srv=vpusxz6e9t3q&i=0.4&sp=500&p1=vpusxz6e9t3q&p2=vpusxz6e9t3q&asn=21928">
+
+      <genre></genre>
+      <year>1970</year>
+      <runtime>39m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="Deadly Games"
+           description="Follows four female influencers who are invited to an island by a Crypto mogul to partake in a million-dollar contest."
+           hdposterurl="https://image.tmdb.org/t/p/original/kLIbv66WIR4YBsw0fqjnKnNgKjE.jpg"
+           streamformat="hls"
+           url="https://fin-3dg-b1.cdn255.com/hls2/01/08753/omix3w91nav1_x/master.m3u8?t=1L-NxdDL_eN8xMAKfujP3oSxZ8QRI7eQVcLiv4BFbGM&s=1746603807&e=10800&f=43785351&srv=42&asn=21928&sp=5500&p=">
+
+      <genre>Crimen, Suspenso</genre>
+      <year>2024</year>
+      <runtime></runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="Critical Acclaim"
+           description="In a relentless battle against alcoholism, a struggling Italian-American filmmaker embarks on a perilous journey that forces him to confront his inner demons and fight against the imminent self-destruction threatening to consume him."
+           hdposterurl="https://image.tmdb.org/t/p/original/aBOM2Y0VEIrZQob17JoDeizS5yU.jpg"
+           streamformat="hls"
+           url="https://54pkdcyxbsxbermn.premilkyway.com/hls2/01/09529/hkfpi6l2pg8l_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=rW6ByDo07vaR0qbdfSNnF8LTpcTrDfdR63EWydX2JCE&s=1746603853&e=129600&f=47663344&srv=vpusxz6e9t3q&i=0.4&sp=500&p1=vpusxz6e9t3q&p2=vpusxz6e9t3q&asn=21928">
+
+      <genre>Drama</genre>
+      <year>2024</year>
+      <runtime></runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="Candlewood"
+           description="Candlewood follows a family that moves from New York City to a small, isolated town in Connecticut. Once there, their new neighbors and a local urban legend wreak havoc on the family, fracturing their once loving dynamic and causing them to turn on one another."
+           hdposterurl="https://image.tmdb.org/t/p/original/wQ9wM2SjUuCP3QVV0VlcVV4I1f0.jpg"
+           streamformat="hls"
+           url="https://be7713.rcr82.waw05.cdn255.com/hls2/01/08754/ah5ys0c6tgy5_x/index-v1-a1.m3u8?t=kOeS0SKmm2NsDl5yg6DsoAihoT83CMbRORJei0yi78w&s=1746603986&e=10800&f=43785498&srv=45&asn=21928&sp=5500&p=">
+
+      <genre>Terror, Suspenso</genre>
+      <year>2024</year>
+      <runtime></runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="1 More Round"
+           description="Jackie Despain se enfrenta a la lucha de su vida. Para obtener la custodia de su joven sobrina, la aspirante a artista marcial mixta hace lo único que sabe que se le da bien: pelear. Si logra ganar suficientes peleas en el brutal y arriesgado mundo de las artes marciales mixtas y firmar un contrato profesional, podrá recuperar a su sobrina. Mientras Jackie se abre camino con violencia hacia su objetivo, deberá confiar en la guía de su aguerrido entrenador, Hank."
+           hdposterurl="https://image.tmdb.org/t/p/original/orvdriLBt2wNJmMcylr8nHMDL0Z.jpg"
+           streamformat="hls"
+           url="https://fin-3dg-b1.cdn255.com/hls2/02/08708/2lc0ji6gq6sk_h/master.m3u8?t=SB4B8syWxWuHor1IQM3RHnYRZ6e3zoI2dzroayFspKw&s=1746604212&e=10800&f=43552460&srv=31&asn=21928&sp=4000&p=">
+
+      <genre></genre>
+      <year>2025</year>
+      <runtime>1h 42m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="Beyond the Chamber of Terror"
+           description="A vigilante is captured and taken to a safe house in the middle of nowhere. A resident mob family aim to ruthlessly extract the whereabouts of one of their own from their mysterious captive, but he has other plans. As these worlds collide in an evening chockful of bloodshed and mayhem, something with its own sinister agenda emerges to threaten them all."
+           hdposterurl="https://image.tmdb.org/t/p/original/o7YV7IfFm0NNqq9qZNJrh0XJiaW.jpg"
+           streamformat="hls"
+           url="https://be7713.rcr82.waw05.cdn255.com/hls2/01/08708/rqd1zf2wafmj_h/index-v1-a1.m3u8?t=jn6TjgM7xPsFptXUetEJH1JGwY42ZLqctk7qQKmTfQ8&s=1746604347&e=10800&f=43544529&srv=44&asn=21928&sp=4000&p=">
+
+      <genre>Comedia, Crimen, Terror</genre>
+      <year>2021</year>
+      <runtime>1h 33m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="Ambrogio: The First Vampire"
+           description="Cuando el primer vampiro encuentra a una mujer que se parece a su amor perdido, invoca a los dioses para que la protejan de sus rivales empeñados en vengarse."
+           hdposterurl="https://image.tmdb.org/t/p/original/5wAhf1zXwqhfZvDa1Im3E5MC3wB.jpg"
+           streamformat="hls"
+           url="https://be4235.rcr32.ams02.cdn255.com/hls2/01/08708/cqlspuarcopa_x/master.m3u8?t=Y1RYRCbmWlOT0oqcrmHNaIGbtrTaqZinRYBlRozseBs&s=1746604428&e=10800&f=43543839&srv=28&asn=21928&sp=5500&p=">
+
+      <genre></genre>
+      <year>2025</year>
+      <runtime>55m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="Blue Devils"
+           description="Joi y sus amigas se dedican al striptease tras perder su trabajo. Cuando una amiga es agredida por el dueño del club, planean un robo para obtener justicia. Mientras se centran en un club más grande, una redada policial provoca una emocionante crisis de rehenes, poniendo a prueba su vínculo y su fuerza."
+           hdposterurl="https://image.tmdb.org/t/p/original/pIZ5yQv3OpWlPwQ2xCukhD8OnFP.jpg"
+           streamformat="hls"
+           url="https://be7713.rcr82.waw05.cdn255.com/hls2/01/08707/9aml6e71uqtb_h/index-v1-a1.m3u8?t=Feg54m3jhdOU-KyGeDqStrkXKnEZBpRIUhNY_eStCEI&s=1746604541&e=10800&f=43544479&srv=27&asn=21928&sp=4000&p=">
+
+      <genre></genre>
+      <year>2025</year>
+      <runtime>30m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="La venganza de Cenicienta"
+           description="Cenicienta es empujada demasiado lejos por sus malvadas hermanastras y madrastra, lo que hace que cambie sus zapatos de cristal y utilice la ayuda de su Hada Madrina para buscar una venganza sangrienta."
+           hdposterurl="https://image.tmdb.org/t/p/original/aViZPvTfDkfFCxuj3fhKgw37lRf.jpg"
+           streamformat="hls"
+           url="https://goqp5vk8ekuqh.acek-cdn.com/hls2/01/04375/os56mhlsjadw_n/index-v1-a1.m3u8?t=nfkfLgFz0C-roeufgoqv1P9mASCYE1bfRsnXW5J6w6c&s=1746604644&e=129600&f=21877898&srv=N9AMlcuPtQ8N&i=0.4&sp=500&p1=N9AMlcuPtQ8N&p2=N9AMlcuPtQ8N&asn=21928">
+
+      <genre>Fantasía, Terror</genre>
+      <year>2024</year>
+      <runtime>1h 25m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="Corina"
+           description="Corina tiene 20 años y no sale de su casa más que para trabajar en una editorial que se encuentra en la colonia donde vive. Después de cometer un grave error con el final de la saga de libros más afamada de la empresa, Corina deberá vencer sus miedos con ayuda de Carlos y emprender un viaje en búsqueda de una misteriosa escritora para salvar su trabajo y el de sus compañeros."
+           hdposterurl="https://image.tmdb.org/t/p/original/2YH326wovVubxK10Yjh9xjE6wTm.jpg"
+           streamformat="hls"
+           url="https://18jij6rntf.premilkyway.com/hls2/01/07965/35v51enkoo7o_n/index-v1-a1.m3u8?t=piBDswZARIjMjtK6sUgsYqlxDYm9JRZ2Uuo5mUXpPZ0&s=1746604722&e=129600&f=39826746&srv=vy7cie2tqwc2cgp&i=0.4&sp=500&p1=vy7cie2tqwc2cgp&p2=vy7cie2tqwc2cgp&asn=21928">
+
+      <genre>Drama, Comedia</genre>
+      <year>2025</year>
+      <runtime>1h 36m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="Banger"
+           description="Un DJ venido a menos ve la oportunidad de volver a la cima con un nuevo éxito cuando la policía lo recluta para capturar a una peculiar banda criminal vinculada con su rival."
+           hdposterurl="https://image.tmdb.org/t/p/original/mtyIfCHm7FZw1plbwbybj9Stfz8.jpg"
+           streamformat="hls"
+           url="https://ejjyomiqje9sf.acek-cdn.com/hls2/01/04375/xb2drdos2mi8_n/master.m3u8?t=LLf_L3E1mJdcjpC2CkZdIuDUoMOhEXsg096w33FusjI&s=1746604888&e=129600&f=21876454&srv=N9AMlcuPtQ8N&i=0.4&sp=500&p1=N9AMlcuPtQ8N&p2=N9AMlcuPtQ8N&asn=21928">
+
+      <genre>Comedia, Música</genre>
+      <year>2025</year>
+      <runtime>1h 30m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="Breathing In"
+           description="1901, Sudáfrica. A medida que avanza la Segunda Guerra Anglo-Bóer, un general herido busca refugio en la pequeña casa de una mujer y su pequeña hija. A medida que el hombre herido se instala, comienza a notar que algo anda mal con las dos mujeres, particularmente con la hija, y en poco tiempo, aprenderá la verdadera razón por la que lo han invitado y por cómo han sobrevivido solos durante tanto tiempo."
+           hdposterurl="https://image.tmdb.org/t/p/original/yy2dmnBlPhx21GUMUJUPxA9QUFp.jpg"
+           streamformat="hls"
+           url="https://18jij6rntf.premilkyway.com/hls2/01/09462/ss1h1gqcdcx1_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=MFG40vaCAJthc8mTtwNDLeTwEEoCfcYo93wXwhxNpVA&s=1746604964&e=129600&f=47314893&srv=jubDiYuWLQCqfHI&i=0.4&sp=500&p1=jubDiYuWLQCqfHI&p2=jubDiYuWLQCqfHI&asn=21928">
+
+      <genre>Terror, Suspenso, Drama</genre>
+      <year>2023</year>
+      <runtime>1h 45m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="Amanece en Samaná"
+           description="En unas vacaciones de celebración, dos parejas se estremecen cuando una mujer confiesa una infidelidad que la llevó a quedarse con su marido."
+           hdposterurl="https://image.tmdb.org/t/p/original/jLJlN27YGDKZNpR0RRxlgLIfoLP.jpg"
+           streamformat="hls"
+           url="https://yhqd4yg264.premilkyway.com/hls2/01/09462/rgpe8ebam486_,l,n,h,.urlset/master.m3u8?t=5AEdMDJZHOczUYUNWhMql4iBCsF8QYFundPDfIksJAo&s=1746605062&e=129600&f=47314304&srv=refp3mq9fppl&i=0.4&sp=500&p1=refp3mq9fppl&p2=refp3mq9fppl&asn=21928">
+
+      <genre>Comedia</genre>
+      <year>2024</year>
+      <runtime>1h 40m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="Implacable"
+           description="THUG es solo eso: el retrato de un matón. Un gángster veterano que ha vivido una larga vida criminal intenta reconectarse con sus hijos y rectificar los errores de su pasado, pero se ve obstaculizado por el inframundo criminal en que se vio envuelto, que se niega a dejarlo ir, al menos, no como él espera. Thug debe elegir entre la lealtad a su antigua vida y la oportunidad de empezar de nuevo antes de que sea demasiado tarde."
+           hdposterurl="https://image.tmdb.org/t/p/original/26D1gPCZkDB94NHcIzK7vXJeXca.jpg"
+           streamformat="hls"
+           url="https://jdou5wo6ffta.acek-cdn.com/hls2/01/02879/8g5y08kvgvae_n/index-v1-a1.m3u8?t=aVTpiXUyi-uD3G0houCKbx-KPRUs05wtt4vrpJjb6jo&s=1746605218&e=129600&f=14397828&srv=GqsnLVZopSCc&i=0.4&sp=500&p1=GqsnLVZopSCc&p2=GqsnLVZopSCc&asn=21928">
+
+      <genre>Acción, Crimen, Suspenso, Misterio, Familia</genre>
+      <year>2024</year>
+      <runtime>1h 52m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="La Pandemia del Agua"
+           description="La Dra. Jennifer Ashgrove lucha por encontrar una cura para una crisis que afecta al suministro de agua en el mundo. Cuando la carga mundial le pasa factura, se retira al campo con su marido en un intento de despejar su mente. Pero su relación es tensa y pronto se dan cuenta de que su capacidad para salvar su matrimonio determinará literalmente el destino de la propia humanidad."
+           hdposterurl="https://image.tmdb.org/t/p/original/297QxvNsdV3XoENGSFIkgmnMXCP.jpg"
+           streamformat="hls"
+           url="https://rfognbc0mhhj.premilkyway.com/hls2/01/09462/qapmyt9oh39k_,l,n,.urlset/master.m3u8?t=kdzJPBUzTu1JE4echhc_X-DXVsvFdoLJ5ghhv3y4QpA&s=1746605299&e=129600&f=47314134&srv=js4BwLKgfmTMJmVh&i=0.4&sp=500&p1=js4BwLKgfmTMJmVh&p2=js4BwLKgfmTMJmVh&asn=21928">
+
+      <genre>Drama</genre>
+      <year>2022</year>
+      <runtime>1h 33m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="La Era de Kasym"
+           description="En el siglo XVI, surge un gran líder para unir a las tribus rivales de Eurasia: Kasym Khan."
+           hdposterurl="https://image.tmdb.org/t/p/original/5wuU8TOQavODS8jcUp9kblrap7o.jpg"
+           streamformat="hls"
+           url="https://qpljyz39awcoenfd.premilkyway.com/hls2/01/09462/zaat0ycijfh5_,l,n,.urlset/index-f2-v1-a1.m3u8?t=ZIqcsxA_3o9o1YK33CWuhmqO-nZP8WCEjAHgtJYB-Sk&s=1746605398&e=129600&f=47314051&srv=3FjgDmcnea8S35m&i=0.4&sp=500&p1=3FjgDmcnea8S35m&p2=3FjgDmcnea8S35m&asn=21928">
+
+      <genre>Historia, Drama, Acción, Guerra</genre>
+      <year>2022</year>
+      <runtime>2h 18m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="La hipnosis"
+           description="André y Vera son una joven pareja de emprendedores. Tienen la oportunidad de presentar su proyecto en un prestigioso concurso. Antes de ir allí, Vera prueba la hipnoterapia para dejar de fumar. A partir de ese momento, su actitud cambia y empieza a comportarse de forma inesperada. Mucho más desinhibida y desacomplejada, ella se deja llevar por sus instintos y se muestra poco respetuosa con las convenciones sociales, lo que va a suponer un reto para André y, sobre todo, un impedimento para que la pareja pueda hacer frente al concurso."
+           hdposterurl="https://image.tmdb.org/t/p/original/1MV3iQlWPjJSZgltidxIwuuiwO0.jpg"
+           streamformat="hls"
+           url="https://m5qqjwpatpzb.acek-cdn.com/hls2/01/04375/c4fefhgjaqrs_n/index-v1-a1.m3u8?t=WJr0TBRD8qAboC7ZycHKiMqFJ6r4Qy6SB6jy8l-sZZc&s=1746605517&e=129600&f=21875165&srv=e4RHfFUBYeX4H3m&i=0.4&sp=500&p1=e4RHfFUBYeX4H3m&p2=e4RHfFUBYeX4H3m&asn=21928">
+
+      <genre>Comedia, Drama</genre>
+      <year>2024</year>
+      <runtime>1h 40m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="In the Summers"
+           description="Las hermanas Violeta y Eva visitan todos los veranos a su amoroso pero imprudente padre Vicente. Él se esfuerza por crear un mundo maravilloso para ellas pero, bajo la divertida fachada, existe una lucha contra la adicción que gradualmente erosiona la magia, culminando en un devastador accidente. Vicente intenta compensar el pasado. Pero las heridas no se curan fácilmente."
+           hdposterurl="https://image.tmdb.org/t/p/original/nyZ0IvkSjoU7ShhLh1wjfVz0QXN.jpg"
+           streamformat="hls"
+           url="https://p3fabiwmf23za.acek-cdn.com/hls2/01/04375/j0xsgoitgh7v_n/master.m3u8?t=XcqCYTsCysIPW9gkhccM-X3sO5I8UrSMq55kVABbklc&s=1746605617&e=129600&f=21875123&srv=N9AMlcuPtQ8N&i=0.4&sp=500&p1=N9AMlcuPtQ8N&p2=N9AMlcuPtQ8N&asn=21928">
+
+      <genre>Drama</genre>
+      <year>2024</year>
+      <runtime>1h 38m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="El último respiro"
+           description="La increíble historia real de Chris Lemons (Finn Cole), un buzo profesional que, tras un extraño accidente, queda atrapado en el fondo del Mar del Norte. Con tan solo 10 minutos de oxígeno de emergencia y a más de media hora de cualquier esperanza de rescate, esta es la lucha imposible de un hombre por sobrevivir a 90 metros de profundidad. Mientras tanto, en la superficie, sus compañeros Duncan (Woody Harrelson) y Dave (Simu Liu) lucharán contra una feroz tormenta y harán todo lo posible por rescatarlo con vida."
+           hdposterurl="https://image.tmdb.org/t/p/original/52JG1uJcULACAEWmUmxp1U7uFMP.jpg"
+           streamformat="hls"
+           url="https://s0mlxzpt0qgc8.premilkyway.com/hls2/01/09459/bhs8f4nll4aw_,l,n,.urlset/index-f2-v1-a1.m3u8?t=gF_BpFYq61sILUogWDuJ8zCHYUTezycD7EKxm4C_sO4&s=1746605695&e=129600&f=47297579&srv=3FjgDmcnea8S35m&i=0.4&sp=500&p1=3FjgDmcnea8S35m&p2=3FjgDmcnea8S35m&asn=21928">
+
+      <genre>Suspenso, Drama</genre>
+      <year>2025</year>
+      <runtime>1h 33m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="Rescate a cualquier costo"
+           description="Félix, un especialista en rescates de alto riesgo, rescata a personas que intentan suicidarse en puentes de una ciudad en crisis. Su hijo, quien en secreto filma los peligrosos rescates y los vende a la televisión, culpa a su padre por la pérdida de su madre. Mientras Félix intenta reconectar con su hijo y ayudar a las personas a cualquier costo, se desencadenan eventos dramáticos."
+           hdposterurl="https://image.tmdb.org/t/p/original/wrOJrz9IhRujx4yPVmdOpBvRmEO.jpg"
+           streamformat="hls"
+           url="https://uk2y0xwy2xup0.premilkyway.com/hls2/01/09457/ohs6nw18plde_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=yiIEZf04k-Y44CLABV8nDJIyo_MUCFSPerrdJgM22ek&s=1746605794&e=129600&f=47288184&srv=3FjgDmcnea8S35m&i=0.4&sp=500&p1=3FjgDmcnea8S35m&p2=3FjgDmcnea8S35m&asn=21928">
+
+      <genre>Drama</genre>
+      <year>2023</year>
+      <runtime></runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="Sombras del pasado"
+           description="Lucas regresa a su aldea natal en las montañas para enterrar a sus padres. Traumatizado por la muerte de su mejor amigo a los ocho años, desea olvidar el pasado. Pero el padre de su amigo cree que Lucas es culpable y busca venganza sin descanso"
+           hdposterurl="https://image.tmdb.org/t/p/original/jHX5mFpbhLCghQAjOFUZBSOJoMs.jpg"
+           streamformat="hls"
+           url="https://bxs5xkxkyi4y.premilkyway.com/hls2/01/09448/kxmqo2p4w1e3_,l,n,.urlset/master.m3u8?t=TqhsqsakVebchj_cZslIlto9Ora6I8fEso14ic0kLHc&s=1746605893&e=129600&f=47244689&srv=jubDiYuWLQCqfHI&i=0.4&sp=500&p1=jubDiYuWLQCqfHI&p2=jubDiYuWLQCqfHI&asn=21928">
+
+      <genre>Terror, Suspenso</genre>
+      <year>2023</year>
+      <runtime>1h 13m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="Sugar baby"
+           description="Una joven atrevida y un empresario adicto al placer se enredan en una pasión arrolladora. Mientras ella disfruta su juventud al máximo, él lo arriesga todo por deseo y adrenalina, desafiando los límites de su vida perfecta."
+           hdposterurl="https://image.tmdb.org/t/p/original/uLbDZIDAbN6SIiBr7Z2eMZ9212S.jpg"
+           streamformat="hls"
+           url="https://sedrfmwrpjxatem5.premilkyway.com/hls2/01/09448/d4cdm9hv5cnm_,l,n,.urlset/index-f2-v1-a1.m3u8?t=OLQFckBGe3qPZPM2z3W5IIqWnwGenSMn7K6Z677UdMM&s=1746605982&e=129600&f=47243271&srv=jubDiYuWLQCqfHI&i=0.4&sp=500&p1=jubDiYuWLQCqfHI&p2=jubDiYuWLQCqfHI&asn=21928">
+
+      <genre>Romance, Drama</genre>
+      <year>2024</year>
+      <runtime>1h 43m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="Melodía del mal"
+           description="Liz y su hija Amy se trasladan a Hamelin, donde un oscuro secreto del pasado de Liz es descubierto por el inquieto espíritu del Flautista de Hamelín, que busca a aquellos que se han salido con la suya en algún crimen y los castiga quitándoles a sus hijos."
+           hdposterurl="https://image.tmdb.org/t/p/original/kVQHxBeayKqLzaK2eAWlLlb79vO.jpg"
+           streamformat="hls"
+           url="https://s0mlxzpt0qgc8.premilkyway.com/hls2/01/09448/rjae7kt1gn9z_,l,n,.urlset/index-f1-v1-a1.m3u8?t=Jge1Pl1X9eM3wNl23tmnWxRV_xImFtdgSreHKkGOGIo&s=1746606071&e=129600&f=47241132&srv=jubDiYuWLQCqfHI&i=0.4&sp=500&p1=jubDiYuWLQCqfHI&p2=jubDiYuWLQCqfHI&asn=21928">
+
+      <genre>Terror, Fantasía</genre>
+      <year>2023</year>
+      <runtime>1h 45m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="Cuando cae el otoño"
+           description="Michelle (Hélène Vincent) es una abuela enérgica que pasa su jubilación en un pueblecito en la campiña francesa, donde también reside Marie-Claude (Josiane Balasko), su mejor amiga. Emocionada con la visita de su hija Valérie y nieto Lucas, con la idea de dejarle al pequeño durante la semana de vacaciones escolares, Michelle les cocina unas setas silvestres que resultan ser tóxicas. Todo lo que acontece después parece fruto del infortunio, pero la sombra de la duda crece cuando conoce al hijo de Marie-Claude, que acaba de salir de prisión."
+           hdposterurl="https://image.tmdb.org/t/p/original/A2mc0VzGuVoWcp5EKhfqjuQDe7b.jpg"
+           streamformat="hls"
+           url="https://5nrdhdrayadkaqp2.premilkyway.com/hls2/01/09447/xel2gts5kn9m_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=_sSSmtbTZGUgpJm9gElKdaaLgrAWLVi5qgU_cxz9h7g&s=1746606155&e=129600&f=47238605&srv=dwjdqozeoybz&i=0.4&sp=500&p1=dwjdqozeoybz&p2=dwjdqozeoybz&asn=21928">
+
+      <genre>Drama, Suspenso, Comedia</genre>
+      <year>2024</year>
+      <runtime>1h 44m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="The Hard Hit"
+           description="An Interpol agent hunting the head of a global crime syndicate tracks his target to Las Vegas, but when the criminal organization kills his wife and daughter, he goes above the law to get his revenge."
+           hdposterurl="https://image.tmdb.org/t/p/original/cQVLFGqzQwFTesSdKsQy1no0Wf4.jpg"
+           streamformat="hls"
+           url="https://goqp5vk8ekuqh.acek-cdn.com/hls2/01/04374/fe844gz67hy0_n/index-v1-a1.m3u8?t=Ir3tZ4VBqvJLuPj1fDr4jF55nznuOwLT1m_AnLx2rXw&s=1746606287&e=129600&f=21870598&srv=N9AMlcuPtQ8N&i=0.4&sp=500&p1=N9AMlcuPtQ8N&p2=N9AMlcuPtQ8N&asn=21928">
+
+      <genre>Acción, Suspenso, Crimen</genre>
+      <year>2023</year>
+      <runtime>16m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="Tierra de nuestras madres"
+           description="Rosario, una señora mayor que vive con Ofelio, su hijo con discapacidad, su borrico y su cabra, se gana la vida vendiendo sal de higuera a los viejos, que conocen sus usos milenarios... y a los no tan viejos, mezclándola con tranquilizantes de farmacia y más ingredientes. El pueblo manchego donde viven está arruinado por la ludopatía de sus habitantes y sus gobernantes, que deciden venderlo. Todos se resignan a la venta forzada, pero la casa y la laguna de Rosario están en medio del municipio."
+           hdposterurl="https://image.tmdb.org/t/p/original/xXxfrz3fOiNxQxy6jaPobxgiIG6.jpg"
+           streamformat="hls"
+           url="https://goqp5vk8ekuqh.acek-cdn.com/hls2/01/04370/0pzdb8esp76z_n/master.m3u8?t=e5yt4OqmplG1Sr1Q9JS-DBuZKppJi_TiEiR6CCfdLSM&s=1746606356&e=129600&f=21852421&srv=F6vE2P5Wjncn&i=0.4&sp=500&p1=F6vE2P5Wjncn&p2=F6vE2P5Wjncn&asn=21928">
+
+      <genre>Drama</genre>
+      <year>2023</year>
+      <runtime>28m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="Test"
+           description="Los destinos de tres personas normales y corrientes convergen en un histórico partido de críquet, empujándolas a tomar decisiones que cambiarán el curso de sus vidas."
+           hdposterurl="https://image.tmdb.org/t/p/original/cXgBHj3g0aLH5OWbgZJpNX7zMhT.jpg"
+           streamformat="hls"
+           url="https://54pkdcyxbsxbermn.premilkyway.com/hls2/01/09430/g08jooczu9ee_,l,n,.urlset/index-f2-v1-a1.m3u8?t=Otcs-_pJ8BRnTefrXHsKTJ0e8-LpqAXhXJBHz7r1St4&s=1746606434&e=129600&f=47151572&srv=kxbg0h85dae8&i=0.4&sp=500&p1=kxbg0h85dae8&p2=kxbg0h85dae8&asn=21928">
+
+      <genre>Drama, Suspenso</genre>
+      <year>2025</year>
+      <runtime>2h 26m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="Turn Me On"
+           description="En un futuro cercano, la incomodidad de las emociones humanas ha sido erradicada con una pastilla diaria. Pero cuando una joven pareja se salta la dosis impuesta por el gobierno, descubren el amor, la alegría, el sexo y todas las complicaciones que vienen con ello."
+           hdposterurl="https://image.tmdb.org/t/p/original/32obpfCjRsIenzkZ5oM5F3w0d65.jpg"
+           streamformat="hls"
+           url="https://mkz8cqibrwia.acek-cdn.com/hls2/01/04370/94tdool9bftk_n/master.m3u8?t=GceIa3GwH7aDF90o9A7C3UqBQ9acbnQBJBcpUROQp5s&s=1746606553&e=129600&f=21852240&srv=FSaCEkUMsJgageo&i=0.4&sp=500&p1=FSaCEkUMsJgageo&p2=FSaCEkUMsJgageo&asn=21928">
+
+      <genre>Ciencia ficción, Romance, Drama</genre>
+      <year>2024</year>
+      <runtime>1h 39m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="Una pequeña confusión"
+           description="En esta comedia llena de eventos, dos parejas que buscan tener hijos recurren a la inseminación artificial como último recurso. La ciencia no falla y la prueba da positivo, pero los humanos sí: “Una pequeña confusión” (nada pequeña) provoca que la doctora (Diana Bovio) intercambie accidentalmente las muestras de esperma. Ahora… cada futura mamá lleva el bebé de un completo extraño. Este ligero cambio de planes trastoca las vidas de Lola y Cuauh (Ana de la Reguera y Cristo Fernández), una pareja progresista de clase media con espíritu libre, y de Iñigo y Majo (Juanpa Zurita y Vico Escorcia), un dúo joven y conservador que vive en una burbuja de privilegio."
+           hdposterurl="https://image.tmdb.org/t/p/original/r01XiXILuu0uymj8yvpRyiD9hB0.jpg"
+           streamformat="hls"
+           url="https://s0mlxzpt0qgc8.premilkyway.com/hls2/01/09425/ljyxex3s65ap_,l,n,.urlset/index-f1-v1-a1.m3u8?t=V4tiKd9FDP4u-EP15ewx0_lqZiOdGrObuwQ0tOoakNU&s=1746606717&e=129600&f=47126905&srv=3FjgDmcnea8S35m&i=0.4&sp=500&p1=3FjgDmcnea8S35m&p2=3FjgDmcnea8S35m&asn=21928">
+
+      <genre>Comedia</genre>
+      <year>2024</year>
+      <runtime></runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="Hereje"
+           description="Dos jóvenes misioneras se ven obligadas a demostrar su fe cuando llaman a la puerta equivocada y son recibidas por el diabólico Sr. Reed (Hugh Grant). Los tres se verán envueltos en un brutal juego del gato y el ratón durante una larga noche de tormenta."
+           hdposterurl="https://image.tmdb.org/t/p/original/rpo3DJFMOSAz27gDwxJ5LIwIFni.jpg"
+           streamformat="hls"
+           url="https://7f12638xuzfg.premilkyway.com/hls2/01/06207/kmoiq68vvn4a_,l,n,.urlset/master.m3u8?t=x0kX1McakhIWiTZPmlUFNrScKci8CrKknvrGvQVD0Y8&s=1746606858&e=129600&f=31037758&srv=meuzahgd24x5v&i=0.4&sp=500&p1=meuzahgd24x5v&p2=meuzahgd24x5v&asn=21928">
+
+      <genre>Terror, Suspenso</genre>
+      <year>2024</year>
+      <runtime>1h 51m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="Silver Haze"
+           description="Quince años después de sufrir graves quemaduras al incendiarse el hostal donde dormía, Franky busca venganza porque aún no ha encontrado respuestas al caso."
+           hdposterurl="https://image.tmdb.org/t/p/original/jdBd7eW1ifKT6lrmwr2DCsw3jYW.jpg"
+           streamformat="hls"
+           url="https://vpk1g9itdgtk.acek-cdn.com/hls2/01/04355/2nefss4l3m50_n/master.m3u8?t=XFVf3TTDTX1_D4-uQfUFyvOq14_S-Z2nCr9Sr8ZBGjs&s=1746607012&e=129600&f=21776249&srv=e4RHfFUBYeX4H3m&i=0.4&sp=500&p1=e4RHfFUBYeX4H3m&p2=e4RHfFUBYeX4H3m&asn=21928">
+
+      <genre>Drama, Romance</genre>
+      <year>2023</year>
+      <runtime>1h 43m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="Cloud クラウド"
+           description="Yoshii es un hombre que gana dinero mediante la reventa online mientras a su alrededor ocurren sucesos extraños que ponen su vida en riesgo."
+           hdposterurl="https://image.tmdb.org/t/p/original/4Vfr2spPWJFoujoL4PBkF0wT3PV.jpg"
+           streamformat="hls"
+           url="https://m5qqjwpatpzb.acek-cdn.com/hls2/01/04335/c6zc87l0rwki_n/master.m3u8?t=0dMVs8lVo6_8490_lGmfrX3jnOBQ8lG-pdE_-vkYLiM&s=1746607210&e=129600&f=21676703&srv=LFDu7HStkKAt&i=0.4&sp=500&p1=LFDu7HStkKAt&p2=LFDu7HStkKAt&asn=21928">
+
+      <genre>Drama, Crimen, Suspenso</genre>
+      <year>2024</year>
+      <runtime>2h 04m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="Crónicas"
+           description="Demian y su hermano Dilan son secuestrados de su línea temporal durante varias décadas para completar una peligrosa misión. La única forma de regresar a casa es cumplir la misión, pero el multiverso es extremadamente peligroso y los acontecimientos empeorarán."
+           hdposterurl="https://image.tmdb.org/t/p/original/iq09xOhoQowgZVOzViQGwgPEhyG.jpg"
+           streamformat="hls"
+           url="https://1hyahuwewhyvwmq.acek-cdn.com/hls2/01/04335/b5nsn7qc9q6n_o/index-v1-a1.m3u8?t=EabR3BgftCc4lr1w4HpWwTia49sixMNsU6vX4Y-jcsU&s=1746607276&e=129600&f=21676697&srv=LFDu7HStkKAt&i=0.4&sp=500&p1=LFDu7HStkKAt&p2=LFDu7HStkKAt&asn=21928">
+
+      <genre>Animación, Ciencia ficción, Terror</genre>
+      <year>2025</year>
+      <runtime>2h 11m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="Promesas del corazón"
+           description="Una joven ve peligrar su futuro por un arreglo secreto que sume su vida en el caos, pero que podría ser la única manera de salvar a su familia"
+           hdposterurl="https://image.tmdb.org/t/p/original/wwGzsJT36GzT1UU39SKlSav1h7n.jpg"
+           streamformat="hls"
+           url="https://1hyahuwewhyvwmq.acek-cdn.com/hls2/01/04335/4uwt7hnsvjnr_n/index-v1-a1.m3u8?t=zRCgwfvAIaWWhqpuaDXAc8uY1KxV_aoKv1p5icMBdSo&s=1746607523&e=129600&f=21676476&srv=GqsnLVZopSCc&i=0.4&sp=500&p1=GqsnLVZopSCc&p2=GqsnLVZopSCc&asn=21928">
+
+      <genre>Drama, Romance</genre>
+      <year>2025</year>
+      <runtime>1h 54m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="Pídeme lo que quieras"
+           description="Judith Flores (Gabriela Andrada) es una chica normal. Tiene un trabajo que le apasiona, muy buenos amigos y un padre encantador, pero su vida cambia radicalmente el día que conoce a Eric Zimmerman (Mario Ermito), dueño de la empresa donde ella trabaja. Su relación con Eric está a punto de dinamitar su vida por completo."
+           hdposterurl="https://image.tmdb.org/t/p/original/76qnVxU2rPdVvipBN3DPQH6fVYB.jpg"
+           streamformat="hls"
+           url="https://rnzt2t4xvku08.acek-cdn.com/hls2/01/04335/khdn0s9n5p24_o/master.m3u8?t=Fd_WswgHAUHLN3SVGCiMIbhf6W3c-1DKwetjUpL-V7I&s=1746607621&e=129600&f=21676446&srv=yCdcGNsOcuCU&i=0.4&sp=500&p1=yCdcGNsOcuCU&p2=yCdcGNsOcuCU&asn=21928">
+
+      <genre>Romance, Drama</genre>
+      <year>2024</year>
+      <runtime>1h 54m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="Uranus 2324: Siempre nos encontraremos"
+           description="Amor y despedida se entrelazan en la historia de dos almas, Kath y Lin, destinadas a estar separadas. Mientras Kath desciende a las profundidades del océano, Lin se enfrenta a una tormenta solar en la inmensidad del espacio. Sus luchas son inmensas, pero las unen en el multiverso. A pesar de sus encuentros, la felicidad les es esquiva. Cada mundo que encuentran presenta nuevas barreras, que conducen a la separación, la pérdida y el desamor. Continuamente heridas por el destino, se enfrentan al reto de superar su separación predestinada. ¿Podrán desafiar al destino, encontrar el amor verdadero y vivir felices juntas?"
+           hdposterurl="https://image.tmdb.org/t/p/original/gZiUK88EQoe3pseBYNl8vJRRHMj.jpg"
+           streamformat="hls"
+           url="https://54pkdcyxbsxbermn.premilkyway.com/hls2/01/09381/6jcufhbtbnay_,l,n,.urlset/index-f2-v1-a1.m3u8?t=VV-dv5v6blV3kZzQbsVnSuLLQBTCGXrvfJVVyYyMI90&s=1746607699&e=129600&f=46907087&srv=jubDiYuWLQCqfHI&i=0.4&sp=500&p1=jubDiYuWLQCqfHI&p2=jubDiYuWLQCqfHI&asn=21928">
+
+      <genre>Romance, Drama, Ciencia ficción</genre>
+      <year>2024</year>
+      <runtime>2h 28m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="¿Quién es quién?"
+           description="Los Fuentes no son la familia mejor avenida del mundo. El trabajo, el colegio y la rutina les ha sumido en una espiral de desconexión que parece imposible de detener. Sin embargo, todo cambia cuando la benjamina del grupo, Valentina, pide un deseo por su noveno cumpleaños. Al día siguiente, todos los integrantes de la familia despiertan con el cuerpo intercambiado: El padre está en el cuerpo de su mujer, la niña está atrapada en el cuerpo de la abuela, los mellizos adolescentes no son ellos mismos… El caos se apodera de la familia y, desesperados, se preguntan: ¿Quién es quién? Mientras la familia se enfrenta a situaciones disparatadas y circunstancias de lo más hilarantes, los Fuentes deberán aprender a meterse en la piel del otro y confiar entre ellos para revertir la situación. ¿Serán capaces de volver a sus cuerpos originales y recuperar sus vidas?"
+           hdposterurl="https://image.tmdb.org/t/p/original/o4T0QAgm9bBWaU7kHWGD3o5b4M2.jpg"
+           streamformat="hls"
+           url="https://sedrfmwrpjxatem5.premilkyway.com/hls2/01/09381/x7w66z1a9y40_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=UwZexjeegrcdmR_iMfPT7ln8jPyduGp_bCVYFGIYLRk&s=1746607797&e=129600&f=46907022&srv=jubDiYuWLQCqfHI&i=0.4&sp=500&p1=jubDiYuWLQCqfHI&p2=jubDiYuWLQCqfHI&asn=21928">
+
+      <genre>Comedia, Familia</genre>
+      <year>2024</year>
+      <runtime>1h 35m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="Criminales de lujo"
+           description="De día, son invisibles: valets, recepcionistas y bármanes de un lujoso hotel. De noche, son los Criminales de lujo, un equipo de conductores que roba a los huéspedes ricos en el camino. Mientras planean su último golpe, la directora del hotel contrata a un cruel asesino para detenerlos a cualquier costo. Con el peligro tan cerca, ¿podrán Nora, Zoé, Steve y Prestance tener éxito con su mayor robo?"
+           hdposterurl="https://image.tmdb.org/t/p/original/rpAbueORafYSgTk2oSc2t6ayktb.jpg"
+           streamformat="hls"
+           url="https://r4eeg9mngv6q.acek-cdn.com/hls2/01/04335/sqvmeanjibu3_o/index-v1-a1.m3u8?t=Zj39OkAHowoXH9u2giWS52IQpFijf6k_qvZ9XfgwAzA&s=1746607917&e=129600&f=21676331&srv=yCdcGNsOcuCU&i=0.4&sp=500&p1=yCdcGNsOcuCU&p2=yCdcGNsOcuCU&asn=21928">
+
+      <genre>Acción, Aventura</genre>
+      <year>2025</year>
+      <runtime>1h 37m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="Alexander y un viaje terrible, horrible, malo... ¡Muy malo!"
+           description="Las vacaciones en México de Alexander y su familia se ven frustradas cuando descubren una maldición."
+           hdposterurl="https://image.tmdb.org/t/p/original/wMhEwAbb9sCaat4hjkhYByaLn1a.jpg"
+           streamformat="hls"
+           url="https://1hyahuwewhyvwmq.acek-cdn.com/hls2/01/04335/2szifgcamqn5_o/master.m3u8?t=bxI0WDgFj1yA92djsOdv1n-YBWFFQDStEEksZ8fpuIk&s=1746608017&e=129600&f=21676278&srv=N9AMlcuPtQ8N&i=0.4&sp=500&p1=N9AMlcuPtQ8N&p2=N9AMlcuPtQ8N&asn=21928">
+
+      <genre>Comedia, Familia</genre>
+      <year>2025</year>
+      <runtime>1h 34m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="Lady Sakura"
+           description="Drama tiene 26 años, es fotógrafa, y encadena trabajos y relaciones esporádicas mientras espera una beca con la que abrir una pequeña galería ahora que Clara, su mejor amiga y compañera de piso, se muda a otra ciudad"
+           hdposterurl="https://image.tmdb.org/t/p/original/c7rxG4dfqpc42l7kfBohsVGhSDV.jpg"
+           streamformat="hls"
+           url="https://e9ccawf5esyyffhp.premilkyway.com/hls2/01/09381/yzc0p890yq7m_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=eUl6PaC3XPJYWiQMjk8ta4g1NatwbaWST_Pq0lKL_5s&s=1746608094&e=129600&f=46906772&srv=rj9uehaz0ybig4&i=0.4&sp=500&p1=rj9uehaz0ybig4&p2=rj9uehaz0ybig4&asn=21928">
+
+      <genre>Comedia, Drama, Romance</genre>
+      <year>2025</year>
+      <runtime>1h 48m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="Mi lista de deseos"
+           description="A pedido de su madre, una mujer se dispone a cumplir los deseos de su adolescencia. En el camino, desentraña secretos familiares, encuentra el amor y se redescubre a sí misma."
+           hdposterurl="https://image.tmdb.org/t/p/original/r6K6spYEWf7aDGsY4EdkScZW1Hl.jpg"
+           streamformat="hls"
+           url="https://mkz8cqibrwia.acek-cdn.com/hls2/01/04335/kll0dsqgttdx_n/master.m3u8?t=lVjbllSX2M_yQSditjAnNtVA3XlVwrB2vdX6ngOzviw&s=1746608211&e=129600&f=21676035&srv=pmjx9cjae94d&i=0.4&sp=500&p1=pmjx9cjae94d&p2=pmjx9cjae94d&asn=21928">
+
+      <genre>Romance, Comedia, Drama</genre>
+      <year>2025</year>
+      <runtime>2h 03m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="De lydløse"
+           description="En 2008, un grupo de hombres de Dinamarca y Europa lleva a cabo el mayor atraco de todos los tiempos en suelo danés. Kasper, un boxeador con pocas oportunidades en la vida, recibe la oferta de sus iniciadores extranjeros para planear el robo."
+           hdposterurl="https://image.tmdb.org/t/p/original/ywHCbLbTremCJBiHRa63rlrXmWs.jpg"
+           streamformat="hls"
+           url="https://18jij6rntf.premilkyway.com/hls2/01/09381/d27qhhmuq68w_,l,n,.urlset/master.m3u8?t=ppLem53EBh0IukVYYyqP_CS6-CzcBTWp8vQ4OvyxS1M&s=1746608289&e=129600&f=46906312&srv=6wyav2r9i6j&i=0.4&sp=500&p1=6wyav2r9i6j&p2=6wyav2r9i6j&asn=21928">
+
+      <genre>Acción, Drama</genre>
+      <year>2024</year>
+      <runtime>1h 50m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="Chico Bento e a Goiabeira Maraviosa"
+           description="Chico Bento ha pasado su vida recogiendo guayabas del guayabo de Don Lau. Pero ahora que el Doctor Agripino va a construir una carretera que derribará el árbol, Chico y sus amigos harán todo lo posible para impedirlo."
+           hdposterurl="https://image.tmdb.org/t/p/original/d2K7Zhw9yRjzoa4HBbrjt7aqlgT.jpg"
+           streamformat="hls"
+           url="https://uk2y0xwy2xup0.premilkyway.com/hls2/01/09381/x779gzy9cpdu_,l,n,.urlset/master.m3u8?t=xRV7QklrpDSwcCiQcO_fCaPe0nGN8o8cHNNf2pLsttA&s=1746608389&e=129600&f=46906214&srv=galk8e9m4l6if&i=0.4&sp=500&p1=galk8e9m4l6if&p2=galk8e9m4l6if&asn=21928">
+
+      <genre>Familia, Aventura, Comedia</genre>
+      <year>2025</year>
+      <runtime>1h 41m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="La madre de las estafas"
+           description="La vida de un chef da un vuelco cuando una rica mujer aficionada al champán y a los hoteles de lujo aparece diciendo ser su madre. Este documental cuenta su historia"
+           hdposterurl="https://image.tmdb.org/t/p/original/tTmm4roxrc4TlU3cxGSC6e7ueaP.jpg"
+           streamformat="hls"
+           url="https://jturq6cd3wcv.premilkyway.com/hls2/01/09350/7qycou22urtr_n/index-v1-a1.m3u8?t=K73qUpyxMviNWtNTrzEzTOR_4AqBpGWcLV8RBrw95Tg&s=1746608485&e=129600&f=46905969&srv=dwjdqozeoybz&i=0.4&sp=500&p1=dwjdqozeoybz&p2=dwjdqozeoybz&asn=21928">
+
+      <genre>Documental, Crimen</genre>
+      <year>2025</year>
+      <runtime>1h 28m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="Breakwater"
+           description="Un joven ex convicto arriesga su nueva libertad para localizar a la hija separada de un compañero de prisión y, sin saberlo, trae un demonio de su pasado directamente a su puerta."
+           hdposterurl="https://image.tmdb.org/t/p/original/iXZjGMFhRUxhcB98ttqMbQlxf6n.jpg"
+           streamformat="hls"
+           url="https://x8oi6owwkjoewr.premilkyway.com/hls2/01/02930/qqvwuzqlo5wm_,n,h,.urlset/master.m3u8?t=8LEd1ZdSz6Ptknetcqlz1FfbxwkB_Vef7Mq7Bk8J_BE&s=1746608584&e=129600&f=14651197&srv=jtkd5kf4kett&i=0.4&sp=500&p1=jtkd5kf4kett&p2=jtkd5kf4kett&asn=21928">
+
+      <genre>Suspenso, Drama</genre>
+      <year>2023</year>
+      <runtime>1h 37m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="Giro final"
+           description="Mónica tiene un podcast y Alex tiene un oscuro secreto. A veces, reunirse con amigos en línea en la vida real no es una buena idea."
+           hdposterurl="https://image.tmdb.org/t/p/original/npzFyBu4fFPQpWXaLKdrXc6JrUK.jpg"
+           streamformat="hls"
+           url="https://5nrdhdrayadkaqp2.premilkyway.com/hls2/01/09350/8x7iuy7ar5wt_n/index-v1-a1.m3u8?t=-_LaVAK6BvSAG55YX0KU6QKMN1YCQLJCVx4hDi6ga3k&s=1746608683&e=129600&f=46905792&srv=fbIjIZy3pIBwE0S&i=0.4&sp=500&p1=fbIjIZy3pIBwE0S&p2=fbIjIZy3pIBwE0S&asn=21928">
+
+      <genre>Terror, Suspenso</genre>
+      <year>2025</year>
+      <runtime>1h 35m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="La obsesión de Celine"
+           description="Ambientada en la actualidad, el paisajista latino Caleb Castillo lleva una doble vida. Está enredado en un tórrido romance con una estrella de la moda, Fiona, y al mismo tiempo está dedicado a su bella esposa, Celine. Celine desea tener un hijo con Caleb más que nada en el mundo. Cuando la paciencia de Fiona se agota con las promesas de Caleb de dejar a su mujer, Celine descubre la infidelidad de Caleb y rompen. Caleb y Fiona empiezan a forjar una nueva vida juntos, pero Celine se obsesiona con reclamar lo que cree que le pertenece por derecho, incluido su hijo recién nacido, Brody. Parece que lo va a conseguir. Pero cuando Celine cree que ha conseguido sus retorcidos objetivos, la película da un nuevo giro en esta montaña rusa de cine negro moderno ambientada en Los Ángeles."
+           hdposterurl="https://image.tmdb.org/t/p/original/ljYwJwHwJ2xOMidR52VrpbrN3vi.jpg"
+           streamformat="hls"
+           url="https://be7713.rcr82.waw05.cdn255.com/hls2/01/05663/tu4pcvf1dawv_x/index-v1-a1.m3u8?t=n0ANXJbKEVh9U1Eki-qLRlbgejWb4bygwD0bgc5UZq4&s=1746608819&e=10800&f=28320583&srv=34&asn=21928&sp=5500&p=">
+
+      <genre>Suspenso</genre>
+      <year>2024</year>
+      <runtime>1h 56m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="Holland"
+           description="Nancy Vandergroot, una profesora y ama de casa de vida aparentemente perfecta de Holland, Míchigan, comienza a sospechar de que su marido la está engañando, y se involucra en una aventura por su cuenta antes de enterarse de su verdadera y oscura vida secreta"
+           hdposterurl="https://image.tmdb.org/t/p/original/39jIr3A4ScUeGxFdMeARYKNxTgU.jpg"
+           streamformat="hls"
+           url="https://yhqd4yg264.premilkyway.com/hls2/01/09350/8rx4zm1n5ky0_n/index-v1-a1.m3u8?t=ufPYeZT4LQbNVyDpzndyJpkSmwUQQpeu54Z5beo1vwI&s=1746608902&e=129600&f=46905350&srv=za19kpiaw6i&i=0.4&sp=500&p1=za19kpiaw6i&p2=za19kpiaw6i&asn=21928">
+
+      <genre>Suspenso, Misterio</genre>
+      <year>2025</year>
+      <runtime>1h 50m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="La noche eterna"
+           description="Esta noche es como todas las demás para Mady, estudiante de día, cerrajero de noche. Pero Claire, la enigmática joven a la que ayuda esa noche, no es quien dice ser. Mady sólo tiene una noche para demostrar su inocencia en una ciudad convulsa."
+           hdposterurl="https://image.tmdb.org/t/p/original/e1tW6ClGJ2x1h88qpklqnCIAzF1.jpg"
+           streamformat="hls"
+           url="https://j7fqjm25xt.premilkyway.com/hls2/01/04880/4d7yyi5xirvk_n/master.m3u8?t=JNcNMhSw4nBtmH6NndyDqOiaoQcgMN4wuIh8mHdQnxc&s=1746609002&e=129600&f=24402057&srv=3wegyoxZ9JubI3z&i=0.4&sp=500&p1=3wegyoxZ9JubI3z&p2=3wegyoxZ9JubI3z&asn=21928">
+
+      <genre>Suspenso, Acción</genre>
+      <year>2024</year>
+      <runtime>1h 37m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="El asedio"
+           description="Walker, un asesino internacional, está en peligro durante una misión. Su superior le envía a un centro especial donde Walker será procesado para conseguir una nueva identidad. Durante su estancia en las instalaciones, un despiadado grupo de asaltantes irrumpe en el complejo en busca de alguien a quien su jefe ha perdido. Walker se une a regañadientes a Elda, una experta asesina a sueldo, y a Juliet, su misteriosa pupila, para maximizar las posibilidades de sobrevivir a la noche"
+           hdposterurl="https://image.tmdb.org/t/p/original/d9jrfsJx7wkDnouIqwnXQ7xayIm.jpg"
+           streamformat="hls"
+           url="https://r4eeg9mngv6q.acek-cdn.com/hls2/01/01289/wpyo976p0i0u_n/index-v1-a1.m3u8?t=2_f38cdwkyhUVXfr_u5E-diBEc-IE7WYuNoc6SyA8IE&s=1746609189&e=129600&f=6449372&srv=F6vE2P5Wjncn&i=0.4&sp=500&p1=F6vE2P5Wjncn&p2=F6vE2P5Wjncn&asn=21928">
+
+      <genre>Acción, Suspenso</genre>
+      <year>2023</year>
+      <runtime>1h 37m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="Criaturas Asombrosas"
+           description="En un mundo azotado por una ola de mutaciones que transforman a los humanos en animales, François hace todo lo posible para salvar a su esposa. Mientras algunas de las criaturas desaparecen en un bosque cercano, él y su hijo Émile se embarcan en una búsqueda que cambiará sus vidas para siempre."
+           hdposterurl="https://image.tmdb.org/t/p/original/oWh4BiNEmg7d91ZOXPzdkRo0KSO.jpg"
+           streamformat="hls"
+           url="https://s0mlxzpt0qgc8.premilkyway.com/hls2/01/03052/1kl6wbe238ol_,n,h,.urlset/index-f1-v1-a1.m3u8?t=Q_KMYYIX8LUGwKIc5XazqXCtJ2UyR4gs9TEWCJKJSZA&s=1746609235&e=129600&f=15264363&srv=6Y0nzgZi8BCfuhZ&i=0.4&sp=500&p1=6Y0nzgZi8BCfuhZ&p2=6Y0nzgZi8BCfuhZ&asn=21928">
+
+      <genre>Aventura, Drama, Ciencia ficción</genre>
+      <year>2023</year>
+      <runtime>2h 10m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="Marinette"
+           description="Biopic de Marinette Pichon, primera futbolista francesa en fichar por la liga profesional estadounidense, mujer récord en número de goles por partido y selecciones para la selección francesa."
+           hdposterurl="https://image.tmdb.org/t/p/original/aM7o55PKT45q630Qmma1fNu99Cd.jpg"
+           streamformat="hls"
+           url="https://sedrfmwrpjxatem5.premilkyway.com/hls2/01/09380/9xcq0s3bf67y_,l,n,.urlset/master.m3u8?t=fnW1BDwpH3JI54gQovGXrUd8mNlB_99pMhE5oSY3xds&s=1746609333&e=129600&f=46904856&srv=meuzahgd24x5v&i=0.4&sp=500&p1=meuzahgd24x5v&p2=meuzahgd24x5v&asn=21928">
+
+      <genre>Drama, Historia</genre>
+      <year>2023</year>
+      <runtime>1h 44m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="Me contro Te: Il film - Operazione spie"
+           description="La alianza de Maléficos, formada por Mr. S., Perfidia, Viperiana y Serpe han convencido al mundo de que Él y Sophi son criminales y los dos, para no ser buscados, se unen a otros personajes para demostrar su inocencia y devolver la armonía al planeta."
+           hdposterurl="https://image.tmdb.org/t/p/original/z5UlATz8daMsxdLgoubkn0dNPxR.jpg"
+           streamformat="hls"
+           url="https://mkz8cqibrwia.acek-cdn.com/hls2/01/04335/4688v7zfzsit_o/master.m3u8?t=NsW8i6UPw1b5-5AhNtZSFwgjHeh6F1bCrNke7Ubs1eo&s=1746609454&e=129600&f=21675305&srv=e4RHfFUBYeX4H3m&i=0.4&sp=500&p1=e4RHfFUBYeX4H3m&p2=e4RHfFUBYeX4H3m&asn=21928">
+
+      <genre>Comedia, Aventura, Familia</genre>
+      <year>2024</year>
+      <runtime>1h 02m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="Duplicidad de Tyler Perry"
+           description="Marley, una poderosa abogada, se enfrenta a su caso más personal cuando se le encomienda descubrir la verdad detrás del asesinato del esposo de su mejor amiga, Fela. Con la ayuda de su novio, un expolicía devenido en investigador privado, la búsqueda de la verdad la lleva por un peligroso laberinto de engaños y traiciones."
+           hdposterurl="https://image.tmdb.org/t/p/original/k4fJun2pJ70BBFMgGAZddk3m7sg.jpg"
+           streamformat="hls"
+           url="https://i60k6cbfsa8z.premilkyway.com/hls2/01/09378/agpnkw9c4xyy_,l,n,.urlset/index-f2-v1-a1.m3u8?t=4mkcuP2y5DAo0FNukYK1nC6nPjfW4DsqBjdzQp72-qc&s=1746609530&e=129600&f=46894722&srv=jubDiYuWLQCqfHI&i=0.4&sp=500&p1=jubDiYuWLQCqfHI&p2=jubDiYuWLQCqfHI&asn=21928">
+
+      <genre>Suspenso, Drama</genre>
+      <year>2025</year>
+      <runtime>1h 49m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="Edipo esclavo"
+           description="El amor no conoce de edades ni la paternidad de orientaciones sexuales."
+           hdposterurl="https://image.tmdb.org/t/p/original/A86iA74TwyLtu0ycN9z1hvj9aXQ.jpg"
+           streamformat="hls"
+           url="https://rnzt2t4xvku08.acek-cdn.com/hls2/01/04333/dn1lfqg47no5_o/index-v1-a1.m3u8?t=pALiQCywPUDLStYmpL59LPHaeq6w_I-89ziZc6hf4gI&s=1746609646&e=129600&f=21669518&srv=KurDwBvf3IESNvT&i=0.4&sp=500&p1=KurDwBvf3IESNvT&p2=KurDwBvf3IESNvT&asn=21928">
+
+      <genre>Drama</genre>
+      <year>2024</year>
+      <runtime>56m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="O'Dessa"
+           description="Ambientada en un futuro postapocalíptico, O'Dessa es una ópera rock sobre una chica de campo en una misión para recuperar una reliquia familiar. Su viaje la lleva a una ciudad peligrosa, donde deberá usar el poder del destino y la música para salvar el alma de su verdadero amor."
+           hdposterurl="https://image.tmdb.org/t/p/original/xbdRxyr1u5dbhvMm14w7J1jJWQS.jpg"
+           streamformat="hls"
+           url="https://mkz8cqibrwia.acek-cdn.com/hls2/01/04333/t7u9f102txlo_n/index-v1-a1.m3u8?t=nDvgaXD5gPp3ncVNRCb20Ljsfes0dbYL8v6Vtv1I01Y&s=1746609769&e=129600&f=21668859&srv=KurDwBvf3IESNvT&i=0.4&sp=500&p1=KurDwBvf3IESNvT&p2=KurDwBvf3IESNvT&asn=21928">
+
+      <genre>Música, Drama, Ciencia ficción</genre>
+      <year>2025</year>
+      <runtime>1h 46m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="La pena máxima 2"
+           description="Abelardo and his brother Raúl face a dilemma when the match that could qualify Colombia for the World Cup coincides with Laura’s wedding—Abelardo’s daughter, marrying the team’s star player. With a bet on the line and two critical events, they’ll do everything to stick to their plans amidst hilarious situations, until the final whistle decides it all."
+           hdposterurl="https://image.tmdb.org/t/p/original/grLob90P4NfAEXb0RInk4b49UjP.jpg"
+           streamformat="hls"
+           url="https://wnsa7jyhmnmt12.premilkyway.com/hls2/01/09378/wd8ylvqujj2s_,l,n,h,.urlset/master.m3u8?t=TxhKYxMqPvDzkFBfdZAHhQt16ZEevz5nG8H--Cesymo&s=1746609859&e=129600&f=46892863&srv=pg8s50jw8kzp&i=0.4&sp=500&p1=pg8s50jw8kzp&p2=pg8s50jw8kzp&asn=21928">
+
+      <genre>Comedia</genre>
+      <year>2024</year>
+      <runtime>1h 30m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="When I'm Ready"
+           description="It's the end of the world. Seeking meaning and thrills in their last days alive, Rose and Michael embark on a cross-country road trip to see Rose's grandmother as a devastating asteroid threatens to wipe out life on Earth. Along the way they encounter other lost souls, each with their own very different perspective on the impending doom."
+           hdposterurl="https://image.tmdb.org/t/p/original/g7T2OZVC4G70tmYmUnVzzsbbIYO.jpg"
+           streamformat="hls"
+           url="https://be4235.rcr32.ams02.cdn255.com/hls2/03/08572/2rrvxujzid7j_x/index-v1-a1.m3u8?t=PsxQgNq8aIN5PGAavsxvqABkYtdkgKA_-A7qQOx4sVE&s=1746609988&e=10800&f=42867174&srv=31&asn=21928&sp=5500&p=">
+
+      <genre>Romance, Drama, Ciencia ficción</genre>
+      <year>2025</year>
+      <runtime>1h 48m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="Código negro"
+           description="Cuando su amada esposa Kathryn es sospechosa de traicionar a la nación, el legendario agente de inteligencia George Woodhouse se enfrenta a la prueba definitiva: la lealtad a su matrimonio o a su país."
+           hdposterurl="https://image.tmdb.org/t/p/original/dKRQtsAhmaww4VST3vzgK5G8pRJ.jpg"
+           streamformat="hls"
+           url="https://fin-3dg-b1.cdn255.com/hls2/02/08430/afhvkam1ypdj_h/index-v1-a1.m3u8?t=5_06KjQ1t9sXI6zT_GFJSUV-EowVNjKcDxxNbVZFN3M&s=1746610132&e=10800&f=42156269&srv=29&asn=21928&sp=4000&p=">
+
+      <genre>Drama, Misterio, Suspenso</genre>
+      <year>2025</year>
+      <runtime>1h 34m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="La Última Gran Actuación"
+           description="Una experimentada bailarina debe planificar su futuro cuando su espectáculo cierra abruptamente tras una carrera de 30 años. Como bailarina de cincuenta años, se debate por saber qué hacer a continuación. Como madre, se esfuerza por reparar una tensa relación con su hija, que a menudo pasaba a un segundo plano en su vida."
+           hdposterurl="https://image.tmdb.org/t/p/original/o70dV2jjGd6TmYTMOY9b34OLzDK.jpg"
+           streamformat="hls"
+           url="https://mkz8cqibrwia.acek-cdn.com/hls2/01/04333/u92z1rxlyibv_o/index-v1-a1.m3u8?t=3sfNDWUHyG4uKKM6tMqVMiVd0ETBE0Gv6paIrGPygkI&s=1746610236&e=129600&f=21667982&srv=F6vE2P5Wjncn&i=0.4&sp=500&p1=F6vE2P5Wjncn&p2=F6vE2P5Wjncn&asn=21928">
+
+      <genre>Drama</genre>
+      <year>2024</year>
+      <runtime>1h 29m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="Cellphone"
+           description="Wynne, who is suffering PTSD from the death of her fiancé, starts seeing disturbing images on her cell phone about her future. If she doesn't figure them out in time, she will die."
+           hdposterurl="https://image.tmdb.org/t/p/original/fe15BYAlUaFi1cHHgGjfe3vRMYE.jpg"
+           streamformat="hls"
+           url="https://etojdo3yv1iw.acek-cdn.com/hls2/01/01395/oojq5nbd7fzv_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=fmDoTkRljn7n1T4My400D3XAkCjW_PM4VPTzHoryNX4&s=1746610454&e=129600&f=6976231&srv=bqycOuNuR1y4&i=0.4&sp=500&p1=bqycOuNuR1y4&p2=bqycOuNuR1y4&asn=21928">
+
+      <genre>Terror, Suspenso, Misterio, Drama</genre>
+      <year>2024</year>
+      <runtime>1h 28m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="Moscas"
+           description="El señor Machi es un empresario aficionado a los lujos, el dinero fácil y las mujeres. Una persona despreciable que abusa de su poder y posición, pero que de pronto se encuentra en una situación límite: una mañana, a plena luz del día, pincha una rueda. Pero su sorpresa llega al descubrir en su maletero el cadáver desfigurado de un desconocido. Alguien le ha tendido una trampa. Ahí comienza una ruta desesperada para deshacerse del cuerpo, descubrir su identidad y saber quién está detrás de todo esto. Alguno de los muchos enemigos que ha ido cultivando con los años, desde su propia esposa hasta compañeros de trabajo, pasando por guardaespaldas o políticos. Pudo ser cualquiera de los que ha pisado durante estos años para seguir trepando o para consolidar su poder, porque para Luis Machi, las personas resultan tan insignificantes que de lejos parecen moscas."
+           hdposterurl="https://image.tmdb.org/t/p/original/x9N3Ve9inJAHIF8vYHpm4hdUdBH.jpg"
+           streamformat="hls"
+           url="https://i60k6cbfsa8z.premilkyway.com/hls2/01/09339/o1y0pgymw0bj_,l,n,.urlset/index-f2-v1-a1.m3u8?t=OOZk6dWJaIXbZpaal2MaDc8M8VrUsN5EUy5uxwMlmOI&s=1746610530&e=129600&f=46695029&srv=vpusxz6e9t3q&i=0.4&sp=500&p1=vpusxz6e9t3q&p2=vpusxz6e9t3q&asn=21928">
+
+      <genre>Suspenso</genre>
+      <year>2023</year>
+      <runtime>1h 37m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="Who's Cheating Who?"
+           description="Follows two married couples, Stephanie/Mason and Maxine/Steven, whose lives intertwine through affairs. Stephanie starts an affair with Steven after discovering Mason's infidelity with Maxine."
+           hdposterurl="https://image.tmdb.org/t/p/original/tGAxpqHWsS89bLk0cyOE6fJ8Tae.jpg"
+           streamformat="hls"
+           url="https://fin-3dg-b1.cdn255.com/hls2/01/08572/jh8lb8yvlral_x/master.m3u8?t=heUoMr87yH3YsNjV93--EEQKUBXJjYMRElb8dqeyxoY&s=1746610681&e=10800&f=42866677&srv=07&asn=21928&sp=5500&p=">
+
+      <genre></genre>
+      <year>2024</year>
+      <runtime></runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="Sing Sing"
+           description="Un pequeño grupo de prisioneros dentro del Centro Correccional Sing Sing, una de las prisiones de máxima seguridad más infames del mundo, intenta montar su propia producción original, Breakin' The Mummy's Code, como parte de un taller de teatro."
+           hdposterurl="https://image.tmdb.org/t/p/original/3JccNwUnxZTCHK1vL5p0H4NgTin.jpg"
+           streamformat="hls"
+           url="https://i60k6cbfsa8z.premilkyway.com/hls2/01/09338/x28lu357nf34_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=dGJqH7NQQ5wvPEq4DCY0vggC6qQ0WuQ18U5P3QhAuxk&s=1746610730&e=129600&f=46694088&srv=6x71sfq2g4l07bi&i=0.4&sp=500&p1=6x71sfq2g4l07bi&p2=6x71sfq2g4l07bi&asn=21928">
+
+      <genre>Drama</genre>
+      <year>2024</year>
+      <runtime>1h 47m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="En un confín del mundo"
+           description="Un pastor sufre una crisis de fe cuando un meteorito cae sobre su pequeño pueblo en Finlandia, lo cual no solo desata el caos, sino que además incita al delito."
+           hdposterurl="https://image.tmdb.org/t/p/original/dI5eWAvq68mddW6JkRodywrOBF.jpg"
+           streamformat="hls"
+           url="https://g6m5vwc8rl.premilkyway.com/hls2/01/09338/h1gcvl14graq_,l,n,.urlset/index-f2-v1-a1.m3u8?t=Wzeh2xca13sLkW9UauaXDt7V9t6VDEqEWK09wo1SBlg&s=1746610828&e=129600&f=46693898&srv=dwjdqozeoybz&i=0.4&sp=500&p1=dwjdqozeoybz&p2=dwjdqozeoybz&asn=21928">
+
+      <genre>Comedia, Suspenso, Drama</genre>
+      <year>2025</year>
+      <runtime>1h 45m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="Who Killed Angel Adams?"
+           description="A community remains haunted by the unsolved murders surrounding Angel Adams. It is a race against time to catch the killer before they strike again."
+           hdposterurl=""
+           streamformat="hls"
+           url="https://5nrdhdrayadkaqp2.premilkyway.com/hls2/01/09274/6b4hu5pz96x4_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=wyZuio0gL_Mbp4EuKaf7WrCH5NdTDDTqtzx0PU6GcDo&s=1746610924&e=129600&f=46374321&srv=qajructf54pm&i=0.4&sp=500&p1=qajructf54pm&p2=qajructf54pm&asn=21928">
+
+      <genre>Drama, Crimen, Suspenso</genre>
+      <year>2024</year>
+      <runtime>16m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="Raqa"
+           description="Raqa muestra la vida en una ciudad dominada por uno de los grupos terroristas más crueles. Los protagonistas tienen la misma misión, pero para distintos servicios secretos: viviendo en el filo de la navaja y sin poder cometer ningún error, la tensión y el miedo se palpan en cada acción."
+           hdposterurl="https://image.tmdb.org/t/p/original/3dDP4qtfs6Uvc3wyvZRuPtpGlci.jpg"
+           streamformat="hls"
+           url="https://5nrdhdrayadkaqp2.premilkyway.com/hls2/01/09338/rjzwyu1h313q_,l,n,.urlset/master.m3u8?t=9NLTBfk2xy8UMJtXf9SEZVC653KmLPkClvd-03JeW5M&s=1746611039&e=129600&f=46693475&srv=g3qezmygwi76p&i=0.4&sp=500&p1=g3qezmygwi76p&p2=g3qezmygwi76p&asn=21928">
+
+      <genre>Suspenso</genre>
+      <year>2024</year>
+      <runtime>1h 41m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="Revelación"
+           description="Un pastor que cree en las revelaciones divinas y un detective atormentado por visiones investigan una desaparición, liberando sus propios demonios en el proceso."
+           hdposterurl="https://image.tmdb.org/t/p/original/wYLUqqlteOFBZkHClr4nmcc48FA.jpg"
+           streamformat="hls"
+           url="https://1hyahuwewhyvwmq.acek-cdn.com/hls2/01/04312/o1dl71sl3h8p_n/master.m3u8?t=LOBv9JF9Gcyi0tTMdw1GgDu4yi6e6dwnVY9tLBWbjIo&s=1746611165&e=129600&f=21562554&srv=KurDwBvf3IESNvT&i=0.4&sp=500&p1=KurDwBvf3IESNvT&p2=KurDwBvf3IESNvT&asn=21928">
+
+      <genre>Suspenso, Crimen, Misterio</genre>
+      <year>2025</year>
+      <runtime>2h 02m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="With Difficulty Comes Ease"
+           description="Zainab, a recently widowed Muslim woman, endures the suffocating confines of her mother-in-law's home, where she must remain until the end of her mandatory mourning period. Burdened with financial woes and a secret pregnancy, an unlikely friendship becomes her lifeline as she confronts her grief and redefines her aspirations in a struggle to move on."
+           hdposterurl="https://image.tmdb.org/t/p/original/fjPhUeAgKYJ5Bx1hOJl71RlTUBQ.jpg"
+           streamformat="hls"
+           url="https://s0mlxzpt0qgc8.premilkyway.com/hls2/01/09274/jek8hqc868nv_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=8nLz-6FjKryov27X7tiCarwAcwkGn9yEOALUKTy8g4E&s=1746611269&e=129600&f=46374439&srv=vpusxz6e9t3q&i=0.4&sp=500&p1=vpusxz6e9t3q&p2=vpusxz6e9t3q&asn=21928">
+
+      <genre>Drama</genre>
+      <year>2024</year>
+      <runtime>1h 48m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="ReBroken"
+           description="Después de que un padre recibe grabaciones de un extraño misterioso, comienza a recibir comunicaciones de su hija fallecida. Mientras intenta descifrar los mensajes, comienza a sospechar que su grupo de apoyo tiene motivos ocultos."
+           hdposterurl="https://image.tmdb.org/t/p/original/fRzhUijVlR4M545TsBRy99yZil9.jpg"
+           streamformat="hls"
+           url="https://j7fqjm25xt.premilkyway.com/hls2/01/02822/vaea8nqqonbc_,n,h,.urlset/master.m3u8?t=OZSVn7pf8FTx2Hd91ut-PnNRtyRhRzpw6USLTSO4hKw&s=1746611389&e=129600&f=14113431&srv=7npihg0ee2yuu&i=0.4&sp=500&p1=7npihg0ee2yuu&p2=7npihg0ee2yuu&asn=21928">
+
+      <genre>Drama, Suspenso, Terror</genre>
+      <year>2023</year>
+      <runtime>1h 33m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="Winnie Pooh: Miel y Sangre 2"
+           description="En lo más profundo del Bosque de los Cien Acres, crece una furia destructiva cuando Winnie-the-Pooh, Piglet, Owl y Tigger ven peligrar su hogar y sus vidas después de que Christopher Robin revelara su existencia. No queriendo seguir viviendo en la sombra, el grupo decide llevar la lucha al pueblo de Ashdown, hogar de Christopher Robin, dejando un sangriento rastro de muerte y caos a su paso. Winnie y sus salvajes amigos demostrarán a todo el mundo que son más mortíferos, más fuertes y más listos de lo que nadie podría imaginar y conseguirán vengarse de Christopher Robin, de una vez por todas."
+           hdposterurl="https://image.tmdb.org/t/p/original/7BSJhvwvrhifE8DyA5cuXgLRYLx.jpg"
+           streamformat="hls"
+           url="https://yhqd4yg264.premilkyway.com/hls2/01/04323/d3dsl4duvl20_n/master.m3u8?t=y7gK_sgu-gKHvOabXG_d-Fu4QS0hrtKilN24ix528HQ&s=1746611493&e=129600&f=21755151&srv=z13jtbat10fahdh456&i=0.4&sp=500&p1=z13jtbat10fahdh456&p2=z13jtbat10fahdh456&asn=21928">
+
+      <genre>Terror, Suspenso</genre>
+      <year>2024</year>
+      <runtime>1h 40m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
 </Content>
