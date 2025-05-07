@@ -13,5 +13,19 @@
       <subtitle language="eng" description="English" url=""/>
       <subtitle language="spa" description="Spanish" url=""/>
    </item>
+   <item
+           title="The Cost of Something Priceless"
+           description="Carmen, una madre decidida, lucha por recuperar a su hijo robado de su despiadado novio traficante de armas. Lidiando con el engaño y el peligro, manipula a sus aliados y cautiva a hombres poderosos en esta apasionante historia de amor y acción inquebrantables."
+           hdposterurl="https://image.tmdb.org/t/p/original/d29yBDhALrd6YdLNXl0HV2OyaGm.jpg"
+           streamformat="hls"
+           url="https://be7713.rcr82.waw05.cdn255.com/hls2/01/08858/tejzuk0kuf6v_h/index-v1-a1.m3u8?t=sYu5CQf5RGnW3bV8Te4_lIPgtorfAoJLbw7SE05fIzA&s=1746587519&e=10800&f=44301910&srv=30&asn=21928&sp=4000&p=">
+
+      <genre></genre>
+      <year>1970</year>
+      <runtime></runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
    
 </Content>
