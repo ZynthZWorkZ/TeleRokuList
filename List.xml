@@ -27,5 +27,33 @@
       <subtitle language="eng" description="English" url=""/>
       <subtitle language="spa" description="Spanish" url=""/>
    </item>
+    <item
+           title="ROB1N"
+           description="Cuando un experto en robótica canaliza el dolor de perder a su hijo de 11 años en la construcción de 'Robin', un muñeco robótico completamente funcional, una serie de eventos horribles dejan en claro que Robin hará lo que sea necesario para tener a su creador para él solo."
+           hdposterurl="https://image.tmdb.org/t/p/original/nJTlyY4dpuIlWf9aDiC4FHrt5Vi.jpg"
+           streamformat="hls"
+           url="https://be4235.rcr32.ams02.cdn255.com/hls2/02/08867/3vnct2x155ho_x/master.m3u8?t=qTuvrrh4mGxjnG5sTeGaaRExc8NuwN67BL1d1NawFrc&s=1746588753&e=10800&f=44341712&srv=29&asn=21928&sp=5500&p=">
+
+      <genre>Terror, Suspenso</genre>
+      <year>2025</year>
+      <runtime>31m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
+   <item
+           title="You're My Person"
+           description="Family man Jabari Gregory meets a sultry temptress named Daisha on his sons' play-date. Despite his love for his perfect wife "Symphony" and son "Miles", Jabari is unable to resist temptation and partakes in a one-night stand with Daisha. After the passionate, adulterous night Daisha is convinced that Jabari is her "person". Daisha begins stalking Jabari and his family. Secrets are revealed, worlds are turned upside and EVERYTHING is on the line including their lives!!."
+           hdposterurl="https://image.tmdb.org/t/p/original/bIhzKmEXy2nQ3C8WLKAhR9QQuBW.jpg"
+           streamformat="hls"
+           url="https://be4235.rcr32.ams02.cdn255.com/hls2/01/08867/oj5ud6exiaza_x/index-v1-a1.m3u8?t=a5KXUXE-HuVYtIUMLxCSQU8b4jwSJ5tcaOZ3GRFQ-0c&s=1746588640&e=10800&f=44341734&srv=10&asn=21928&sp=5500&p=">
+
+      <genre></genre>
+      <year>2024</year>
+      <runtime>51m</runtime>
+
+      <subtitle language="eng" description="English" url=""/>
+      <subtitle language="spa" description="Spanish" url=""/>
+   </item>
    
 </Content>
